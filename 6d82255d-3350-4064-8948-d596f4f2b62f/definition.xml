@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	id="6d82255d-3350-4064-8948-d596f4f2b62f" version="0.0.0.1" octgnVersion="3.1.30.0"
+	name="Gambit" tags="gambit" description="Gambit card game"
+	setsurl="not_empty" gameurl="not_empty" authors="Sohappy, ZeroVash"
+	markersize="18" iconurl="not_empty" >
+
+	<scripts>
+		<script src="scripts/actions.py" />
+	</scripts>
+	
+	<proxygen definitionsrc="proxy/proxydef.xml">
+	</proxygen>
+	
+	<card back="cards/back.png" front="cards/front.jpg" width="63" height="88" cornerRadius="0">
+		<property name="Level" type="Integer" hidden="False" />
+		<property name="Attribute" type="String" textKind="Enum" ignoreText="False" />
+		<property name="Type" type="String" textKind="Enum" ignoreText="False" />
+		<property name="Race" type="String" textKind="Enum" ignoreText="False" />
+		<property name="Rarity" type="String" textKind="Enum" ignoreText="False" />
+		<property name="Effect" type="String" ignoreText="False" />
+		<property name="Attack" type="Integer" hidden="False" />
+		<property name="Defense" type="Integer" hidden="False" />		
+	</card>
+	<table name="Battle Zone" visibility="undefined" ordered="False" width="800" height="600" board="proxy/blank.png" background="background/background.jpg" backgroundStyle="uniformToFill">
+	</table>
+	<player summary="{#Hand}">
+		<hand name="Hand" visibility="me" ordered="False" width="63" height="88" shortcut="ctrl+H" icon="groups/hand.png">
+		</hand>
+		<group name="Deck" visibility="none" ordered="False" width="63" height="88" shortcut="ctrl+Y" icon="groups/deck.png" collapsed="False">
+			<groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
+		</group>
+		<group name="Graveyard" visibility="all" ordered="False" width="63" height="88" shortcut="del" icon="groups/graveyard.png" collapsed="False">
+		</group>
+		<group name="Banish" visibility="all" ordered="False" width="63" height="88" shortcut="del" icon="groups/discard.png" collapsed="False">
+		</group>
+	</player>
+	<deck>
+		<section name="Main" group="Deck" />
+	</deck>
+</game>

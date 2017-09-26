@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<templates>
+	<blocks>
+		<block type="text" id="levelTextBlock">
+			<location x="20" y="20" />
+			<text color="#000000" size="55" />
+			<wordwrap width="40" height="40" align="center" valign="center" shrinktofit="True" />
+		</block>
+		<block type="text" id="cardNameTextBlock">
+			<location x="60" y="20" />
+			<text color="#000000" size="55" />
+			<wordwrap width="300" height="40" align="near" valign="center" shrinktofit="True" />
+		</block>
+		<block type="text" id="cardTypeTextBlock">
+			<location x="20" y="260" />
+			<text color="#000000" size="35" />
+			<wordwrap width="60" height="30" align="center" valign="center" shrinktofit="True" />
+		</block>
+		<block type="text" id="raceTextBlock">
+			<location x="80" y="260" />
+			<text color="#000000" size="40" />
+			<wordwrap width="230" height="30" align="center" valign="center" shrinktofit="True" />
+		</block>
+		<block type="text" id="effectTextBlock">
+			<location x="20" y="310" />
+			<text color="#000000" size="24" />
+			<wordwrap width="360" height="168" align="near" valign="near" shrinktofit="True" />
+		</block>
+		<block type="text" id="attackTextBlock">
+			<location x="220" y="488" />
+			<text color="#000000" size="75" />
+			<wordwrap width="120" height="60" align="center" valign="center" shrinktofit="True" />
+		</block>
+		<block type="text" id="defenseTextBlock">
+			<location x="300" y="488" />
+			<text color="#000000" size="75" />
+			<wordwrap width="120" height="60" align="center" valign="center" shrinktofit="True" />
+		</block>
+	</blocks>
+	
+	<template src="proxy/fireProxy.png" default="True">
+		<matches>
+			<match name="Attribute" value="Fire" />
+		</matches>
+		<textblocks>
+			<link block="levelTextBlock">
+				<property name="Level" />
+			</link>
+			<link block="cardNameTextBlock">
+				<property name="Name" />
+			</link>
+			<link block="cardTypeTextBlock">
+				<property name="Type" />
+			</link>
+			<link block="raceTextBlock">
+				<property name="Race" />
+			</link>
+			<link block="effectTextBlock">
+				<property name="Effect" />
+			</link>
+			<link block="attackTextBlock">
+				<property name="Attack" />
+			</link>
+			<link block="defenseTextBlock">
+				<property name="Defense" />
+			</link>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/earthProxy.png">
+		<matches>
+			<match name="Attribute" value="Earth" />
+		</matches>
+		
+		<textblocks>
+			<link block="levelTextBlock">
+				<property name="Level" />
+			</link>
+			<link block="cardNameTextBlock">
+				<property name="Name" />
+			</link>
+			<link block="cardTypeTextBlock">
+				<property name="Type" />
+			</link>
+			<link block="raceTextBlock">
+				<property name="Race" />
+			</link>
+			<link block="effectTextBlock">
+				<property name="Effect" />
+			</link>
+			<link block="attackTextBlock">
+				<property name="Attack" />
+			</link>
+			<link block="defenseTextBlock">
+				<property name="Defense" />
+			</link>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/windProxy.png">
+		<matches>
+			<match name="Attribute" value="Wind" />
+		</matches>
+		
+		<textblocks>
+			<link block="levelTextBlock">
+				<property name="Level" />
+			</link>
+			<link block="cardNameTextBlock">
+				<property name="Name" />
+			</link>
+			<link block="cardTypeTextBlock">
+				<property name="Type" />
+			</link>
+			<link block="raceTextBlock">
+				<property name="Race" />
+			</link>
+			<link block="effectTextBlock">
+				<property name="Effect" />
+			</link>
+			<link block="attackTextBlock">
+				<property name="Attack" />
+			</link>
+			<link block="defenseTextBlock">
+				<property name="Defense" />
+			</link>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/waterProxy.png">
+		<matches>
+			<match name="Attribute" value="Water" />
+		</matches>
+		
+		<textblocks>
+			<link block="levelTextBlock">
+				<property name="Level" />
+			</link>
+			<link block="cardNameTextBlock">
+				<property name="Name" />
+			</link>
+			<link block="cardTypeTextBlock">
+				<property name="Type" />
+			</link>
+			<link block="raceTextBlock">
+				<property name="Race" />
+			</link>
+			<link block="effectTextBlock">
+				<property name="Effect" />
+			</link>
+			<link block="attackTextBlock">
+				<property name="Attack" />
+			</link>
+			<link block="defenseTextBlock">
+				<property name="Defense" />
+			</link>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/lightProxy.png">
+		<matches>
+			<match name="Attribute" value="Light" />
+		</matches>
+		<textblocks>
+			<link block="levelTextBlock">
+				<property name="Level" />
+			</link>
+			<link block="cardNameTextBlock">
+				<property name="Name" />
+			</link>
+			<link block="cardTypeTextBlock">
+				<property name="Type" />
+			</link>
+			<link block="raceTextBlock">
+				<property name="Race" />
+			</link>
+			<link block="effectTextBlock">
+				<property name="Effect" />
+			</link>
+			<link block="attackTextBlock">
+				<property name="Attack" />
+			</link>
+			<link block="defenseTextBlock">
+				<property name="Defense" />
+			</link>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/darkProxy.png">
+		<matches>
+			<match name="Attribute" value="Dark" />
+		</matches>
+		<textblocks>
+			<link block="levelTextBlock">
+				<property name="Level" />
+			</link>
+			<link block="cardNameTextBlock">
+				<property name="Name" />
+			</link>
+			<link block="cardTypeTextBlock">
+				<property name="Type" />
+			</link>
+			<link block="raceTextBlock">
+				<property name="Race" />
+			</link>
+			<link block="effectTextBlock">
+				<property name="Effect" />
+			</link>
+			<link block="attackTextBlock">
+				<property name="Attack" />
+			</link>
+			<link block="defenseTextBlock">
+				<property name="Defense" />
+			</link>
+		</textblocks>
+	</template>
+</templates>
