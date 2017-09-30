@@ -12,7 +12,7 @@
 	<proxygen definitionsrc="proxy/proxydef.xml">
 	</proxygen>
 	
-	<card back="cards/back.png" front="cards/front.jpg" width="63" height="88" cornerRadius="0">
+	<card back="cards/back2.jpg" front="cards/front.jpg" width="63" height="88" cornerRadius="0">
 		<property name="Level" type="Integer" hidden="False" />
 		<property name="Attribute" type="String" textKind="Enum" ignoreText="False" />
 		<property name="Type" type="String" textKind="Enum" ignoreText="False" />
@@ -30,6 +30,9 @@
 		<group name="Deck" visibility="none" ordered="False" width="63" height="88" shortcut="ctrl+Y" icon="groups/deck.png" collapsed="False">
 			<groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
 		</group>
+		<group name="Extra" visibility="me" ordered="False" width="63" height="88" shortcut="shift+Y" icon="groups/deck.png" collapsed="False">
+			<groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
+		</group>
 		<group name="Graveyard" visibility="all" ordered="False" width="63" height="88" shortcut="del" icon="groups/graveyard.png" collapsed="False">
 		</group>
 		<group name="Banish" visibility="all" ordered="False" width="63" height="88" shortcut="del" icon="groups/discard.png" collapsed="False">
@@ -37,5 +40,6 @@
 	</player>
 	<deck>
 		<section name="Main" group="Deck" />
+		<section name="Extra" group="Extra" />
 	</deck>
 </game>
