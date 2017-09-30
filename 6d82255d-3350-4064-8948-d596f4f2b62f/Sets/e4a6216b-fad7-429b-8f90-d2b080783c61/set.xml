@@ -137,7 +137,7 @@
 			<property name="Type" value="Field" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="All Wind-Beasts deal piercing damage. +4 Gold per turn" />
+			<property name="Effect" value="All Wind-Beasts deal piercing damage. +5 Gold per turn" />
 			<property name="Attack" value="" />
 			<property name="Defense" value="" />
 		</card>
@@ -147,7 +147,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="During this turn, if a Wind Monster on your field would be banished, return it to your hand instead. (-8 Gold)" />
+			<property name="Effect" value="During this turn, if a Wind Monster on your field would be banished, return it to your hand instead. (-5 Gold)" />
 			<property name="Attack" value="" />
 			<property name="Defense" value="" />
 		</card>
@@ -187,7 +187,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="For this turn only any effect that has a gold cost for wind monsters is reduced by 2. (-8 Life Points)" />
+			<property name="Effect" value="For this turn only any effect that has a gold cost for wind monsters is reduced by 2. (-10 Life Points Per Use)" />
 			<property name="Attack" value="" />
 			<property name="Defense" value="" />
                 </card>
