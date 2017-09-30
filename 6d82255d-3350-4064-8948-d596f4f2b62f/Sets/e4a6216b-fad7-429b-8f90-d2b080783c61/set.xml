@@ -27,7 +27,7 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive: Instead of being banished, all Cloud Beast monsters are sent to the graveyard instead" (-2 Gold)"/>
+			<property name="Effect" value="Passive: Instead of being banished, all Cloud Beast monsters are sent to the graveyard instead(-2 Gold)"/>
 			<property name="Attack" value="5" />
 			<property name="Defense" value="18" />
 		</card>
