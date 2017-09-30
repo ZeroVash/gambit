@@ -12,7 +12,7 @@
 	<proxygen definitionsrc="proxy/proxydef.xml">
 	</proxygen>
 	
-	<card back="cards/back2.jpg" front="cards/front.jpg" width="63" height="88" cornerRadius="0">
+	<card back="cards/back.png" front="cards/front.jpg" width="63" height="88" cornerRadius="0">
 		<property name="Level" type="Integer" hidden="False" />
 		<property name="Attribute" type="String" textKind="Enum" ignoreText="False" />
 		<property name="Type" type="String" textKind="Enum" ignoreText="False" />
@@ -40,6 +40,6 @@
 	</player>
 	<deck>
 		<section name="Main" group="Deck" />
-		<section name="Extra" group="Extra" />
+		<section name="Ultimate" group="Extra" />
 	</deck>
 </game>
