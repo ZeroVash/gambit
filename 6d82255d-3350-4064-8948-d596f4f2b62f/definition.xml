@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	id="6d82255d-3350-4064-8948-d596f4f2b62f" version="0.0.0.1" octgnVersion="3.1.30.0"
+	id="6d82255d-3350-4064-8948-d596f4f2b62f" version="0.0.1.0" octgnVersion="3.1.30.0" scriptVersion="0.0.1.0"
 	name="Gambit" tags="gambit" description="Gambit card game"
-	setsurl="not_empty" gameurl="not_empty" authors="Sohappy, ZeroVash"
-	markersize="18" iconurl="not_empty" >
+	setsurl="https://github.com/ZeroVash/gambit" gameurl="https://github.com/ZeroVash/gambit" authors="Sohappy, ZeroVash"
+	markersize="18" iconurl="https://raw.github.com/zerovash/gambit/master/game/cards/logo.png"  >
 
 	<scripts>
 		<script src="scripts/actions.py" />
@@ -23,14 +23,23 @@
 		<property name="Defense" type="Integer" hidden="False" />		
 	</card>
 	<table name="Battle Zone" visibility="undefined" ordered="False" width="800" height="600" board="proxy/blank.png" background="background/background.jpg" backgroundStyle="uniformToFill">
+		<cardaction menu="Change to Defense/Attack position" execute="tap" />
+		<cardaction menu="Flip" execute="flip" />
+		<groupaction menu="Add X lifepoints" execute="add_lp" />
+		<groupaction menu="Remove X lifepoints" execute="remove_lp" />
+		<groupaction menu="Add X gold" execute="add_gold" />
+		<groupaction menu="Remove X gold" execute="remove_gold" />
 	</table>
 	<player summary="{#Hand}">
 		<hand name="Hand" visibility="me" ordered="False" width="63" height="88" shortcut="ctrl+H" icon="groups/hand.png">
+			<cardaction menu="Play facedown" execute="play_flip" />
 		</hand>
 		<group name="Deck" visibility="none" ordered="False" width="63" height="88" shortcut="ctrl+Y" icon="groups/deck.png" collapsed="False">
+			<groupaction menu="Draw" shortcut="ctrl+D" execute="draw" />
+			<groupaction menu="DrawX" shortcut="ctrl+X" execute="drawX" />
 			<groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
 		</group>
-		<group name="Extra" visibility="me" ordered="False" width="63" height="88" shortcut="shift+Y" icon="groups/deck.png" collapsed="False">
+		<group name="Extra" visibility="me" ordered="False" width="63" height="88" icon="groups/deck.png" collapsed="False">
 			<groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
 		</group>
 		<group name="Graveyard" visibility="all" ordered="False" width="63" height="88" shortcut="del" icon="groups/graveyard.png" collapsed="False">

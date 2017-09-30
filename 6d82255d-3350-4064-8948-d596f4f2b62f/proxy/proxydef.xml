@@ -39,7 +39,7 @@
 		</block>
 	</blocks>
 	
-	<template src="proxy/waterProxy.png" default="True">
+	<template src="proxy/waterProxy.png" >
 		<matches>
 			<match name="Type" value="Spell" />
 		</matches>
@@ -97,7 +97,7 @@
 		</textblocks>
 	</template>
 	
-	<template src="proxy/fireProxy.png" default="True">
+	<template src="proxy/fireProxy.png" >
 		<matches>
 			<match name="Attribute" value="Fire" />
 		</matches>
