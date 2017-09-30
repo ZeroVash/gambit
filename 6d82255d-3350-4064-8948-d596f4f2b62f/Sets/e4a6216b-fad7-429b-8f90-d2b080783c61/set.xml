@@ -7,7 +7,7 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When Summoned: add a "Cloud Beast" monster from your deck or graveyard to your hand. (-2 Gold)" />
+			<property name="Effect" value="When Summoned: add a Cloud Beast monster from your deck or graveyard to your hand. (-2 Gold)" />
 			<property name="Attack" value="14" />
 			<property name="Defense" value="5" />
 		</card>
@@ -17,7 +17,7 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When Summoned: add a "Cloud Beast" or "Cloud Herder" monster from your deck or graveyard to your hand. (-4 Gold)" />
+			<property name="Effect" value="When Summoned: add a Cloud Beast or Cloud Herder monster from your deck or graveyard to your hand. (-4 Gold)" />
 			<property name="Attack" value="10" />
 			<property name="Defense" value="5" />
 		</card>
@@ -27,7 +27,7 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive: Instead of being banished, all "Cloud Beast" monsters are sent to the graveyard instead" (-2 Gold)"/>
+			<property name="Effect" value="Passive: Instead of being banished, all Cloud Beast monsters are sent to the graveyard instead" (-2 Gold)"/>
 			<property name="Attack" value="5" />
 			<property name="Defense" value="18" />
 		</card>
@@ -37,7 +37,7 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When Summoned: Special Summon 1 "Wind-Mage"-"Cloud Herder" minion with 0 attack and 20 defense. (-5 Gold)" />
+			<property name="Effect" value="When Summoned: Special Summon 1 Wind-Mage-Cloud Herder minion with 0 attack and 20 defense. (-5 Gold)" />
 			<property name="Attack" value="5" />
 			<property name="Defense" value="15" />
 		</card>
@@ -227,7 +227,7 @@
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="("Cloud Herder" monster + "Cloud Herder" monster) When Summoned: Draw 1 card for every card of yours that has been banished. If this would trigger a deck reset, pay half the cost. (-5 Gold)" />
+			<property name="Effect" value="(Cloud Herder monster + Cloud Herder monster) When Summoned: Draw 1 card for every card of yours that has been banished. If this would trigger a deck reset, pay half the cost. (-5 Gold)" />
 			<property name="Attack" value="5" />
 			<property name="Defense" value="21" />
 		</card>
@@ -237,7 +237,7 @@
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="("Cloud Herder" monster + "Cloud Herder" monster) When Summoned: if there's a cloud beast on your side of the field add up to 2 spell cards from your deck to your hand or choose to gain 5 Gold. (-10 Life Points)" />
+			<property name="Effect" value="(Cloud Herder monster + Cloud Herder monster) When Summoned: if there's a cloud beast on your side of the field add up to 2 spell cards from your deck to your hand or choose to gain 5 Gold. (-10 Life Points)" />
 			<property name="Attack" value="16" />
 			<property name="Defense" value="18" />
 		</card>
@@ -247,7 +247,7 @@
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="("Cloud Beast" monster + "Cloud Beast" monster) (-5 Gold) This card can special summon itself from your hand but cannot be normal summoned. Cannot attack the turn it's summoned. Cannot attack unless there's a cloud beast on your side of the field. If this card attacks on your turn, it's banished at the end of your turn. Passive: For every monster of yours that's been banished, increase the attack of all Wind monsters by 5. (-1 Gold)" />
+			<property name="Effect" value="(Cloud Beast monster + Cloud Beast monster) (-5 Gold) This card can special summon itself from your hand but cannot be normal summoned. Cannot attack the turn it's summoned. Cannot attack unless there's a cloud beast on your side of the field. If this card attacks on your turn, it's banished at the end of your turn. Passive: For every monster of yours that's been banished, increase the attack of all Wind monsters by 5. (-1 Gold)" />
 			<property name="Attack" value="32" />
 			<property name="Defense" value="0" />
 		</card>
