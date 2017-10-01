@@ -133,7 +133,7 @@
 		</card>
 		<card name="Skyward Bound" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe022" >
 			<property name="Level" value="" />
-			<property name="Attribute" value="" />
+			<property name="Attribute" value="Earth" />
 			<property name="Type" value="Field" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
