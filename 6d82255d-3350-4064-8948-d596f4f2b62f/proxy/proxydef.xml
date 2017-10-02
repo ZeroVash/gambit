@@ -39,7 +39,65 @@
 		</block>
 	</blocks>
 	
-	<template src="proxy/fireProxy.png" default="True">
+	<template src="proxy/waterProxy.png" >
+		<matches>
+			<match name="Type" value="Spell" />
+		</matches>
+		<textblocks>
+			<link block="levelTextBlock">
+				<property name="Level" />
+			</link>
+			<link block="cardNameTextBlock">
+				<property name="Name" />
+			</link>
+			<link block="cardTypeTextBlock">
+				<property name="Type" />
+			</link>
+			<link block="raceTextBlock">
+				<property name="Race" />
+			</link>
+			<link block="effectTextBlock">
+				<property name="Effect" />
+			</link>
+			<link block="attackTextBlock">
+				<property name="Attack" />
+			</link>
+			<link block="defenseTextBlock">
+				<property name="Defense" />
+			</link>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/lightningProxy.png" default="True">
+		<matches>
+			<match name="Type" value="Ultimate" />
+		</matches>
+		<textblocks>
+			<link block="levelTextBlock">
+				<property name="Level" />
+			</link>
+			<link block="cardNameTextBlock">
+				<property name="Name" />
+			</link>
+			<link block="cardTypeTextBlock">
+				<property name="Type" />
+			</link>
+			<link block="raceTextBlock">
+				<property name="Race" />
+			</link>
+			<link block="effectTextBlock">
+				<property name="Effect" />
+			</link>
+			<link block="attackTextBlock">
+				<property name="Attack" />
+			</link>
+			<link block="defenseTextBlock">
+				<property name="Defense" />
+			</link>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/fireProxy.png" >
 		<matches>
 			<match name="Attribute" value="Fire" />
 		</matches>
