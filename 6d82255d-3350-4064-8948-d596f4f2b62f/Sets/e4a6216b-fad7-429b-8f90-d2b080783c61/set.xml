@@ -7,8 +7,9 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When Summoned: add a Cloud Beast monster from your deck or graveyard to your hand. (-2 Gold)" />
+			<property name="Effect" value="Battlecry (-5 Gold): Add a Cloud Beast to your hand from your Deck or Graveyard." />
 			<property name="Attack" value="14" />
+			<property name="Stamina" value="3" />
 			<property name="Defense" value="5" />
 		</card>
 		<card name="Cloud Herder Mek" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe001" >
@@ -17,18 +18,20 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When Summoned: add a Cloud Beast or Cloud Herder monster from your deck or graveyard to your hand. (-4 Gold)" />
-			<property name="Attack" value="10" />
-			<property name="Defense" value="5" />
+			<property name="Effect" value="Battlecry (-8 Gold): Add a Beast OR a Mage to your hand from your Deck or Graveyard." />
+			<property name="Attack" value="5" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="14" />
 		</card>
-		<card name="Cloud Herder Sirra" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe002" >
+		<card name="Cloud Herder Jey" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe002" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive: Instead of being banished, all Cloud Beast monsters are sent to the graveyard instead(-2 Gold)"/>
-			<property name="Attack" value="5" />
+			<property name="Effect" value="Support: When a Cloud Beast is Banished gain + 5 Gold. Blowback: 20HP"/>
+			<property name="Attack" value="2" />
+			<property name="Stamina" value="3" />
 			<property name="Defense" value="18" />
 		</card>
 		<card name="Cloud Herder Fel" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe004" >
@@ -37,19 +40,21 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When Summoned: Special Summon 1 Wind-Mage-Cloud Herder minion with 0 attack and 20 defense. (-5 Gold)" />
+			<property name="Effect" value="Battlecry: Summon one Cloud Beast for free, but it has Blowback for 20 Gold" />
 			<property name="Attack" value="5" />
+			<property name="Stamina" value="2" />
 			<property name="Defense" value="15" />
 		</card>
-                <card name="Cloud Herder Sebastian" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe006" >
+        <card name="Cloud Herder Seb" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe006" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="You gain an additional normal summon for Wind-Mages only (-3 Gold)" />
-			<property name="Attack" value="12" />
-			<property name="Defense" value="16" />
+			<property name="Effect" value="Support (-8 Gold): Gain one more additional summon for Wind monsters per turn. " />
+			<property name="Attack" value="16" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="2" />
 		</card>
 		<card name="Cloud Herder Kit" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe007" >
 			<property name="Level" value="0" />
@@ -57,9 +62,10 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="If a Wind Monster is removed from the field add a monster with 0 defense from your deck or graveyard to your hand (-3 Gold)" />
-			<property name="Attack" value="10" />
-			<property name="Defense" value="5" />
+			<property name="Effect" value="Support (-10 Gold): When a Wind monster is removed from your board, summon another from your hand." />
+			<property name="Attack" value="12" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
 		</card>
 		<card name="Cloud Herder Naz" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe008" >
 			<property name="Level" value="0" />
@@ -67,38 +73,42 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When summoned target a wind monster. That monster can attack twice this turn. (-5 Gold)" />
-			<property name="Attack" value="15" />
-			<property name="Defense" value="11" />
+			<property name="Effect" value="Battlecry (-10 Gold): Select a wind monster and give it +1 Bloodlust" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="5" />
 		</card>
-                <card name="Cloud Beast Dread" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe015" >
+		<card name="Cloud Beast Dread" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe015" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="(-10 Gold) This card can special summon itself from your hand, it cannot be normal summoned. Cannot attack the turn it was summoned. Cannot attack unless there is at least one Cloud Herder on your field. If this monster attacked on your turn, banish it when you end your turn." />
+			<property name="Effect" value="Haste: To summon this card from your hand you must pay 15 Gold" />
 			<property name="Attack" value="50" />
+			<property name="Stamina" value="1" />
 			<property name="Defense" value="0" />
 		</card>
-		<card name="Cloud Beast Pegasus" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe016" >
+		<card name="Cloud Beast Leon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe016" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="(-2 Gold) This card can special summon itself from your hand, it cannot be normal summoned. Cannot attack unless there is at least one Cloud Herder on your field. If this monster attacked on your turn, banish it when you end your turn. Passive: When this card inflicts battle damage draw 2 cards. (-1 Gold)" />
-			<property name="Attack" value="16" />
+			<property name="Effect" value="Haste: To summon this card from your hand you must pay 10 Gold. Smite (-10 Gold): Draw 3 cards. If this would trigger a reset, don’t pay the reset cost. Perish: Banish this card" />
+			<property name="Attack" value="25" />
+			<property name="Stamina" value="1" />
 			<property name="Defense" value="0" />
 		</card>
-		<card name="Cloud Beast Diago" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe017" >
+		<card name="Cloud Beast Pegasus" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe017" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="(-2 Gold) This card can special summon itself from your hand, it cannot be normal summoned. Cannot attack unless there is at least one Cloud Herder on your field. If this monster attacked on your turn, banish it when you end your turn. If this card is banished draw 1 card. If this card is destroyed draw 2 cards. (-1 Gold)" />
-			<property name="Attack" value="15" />
+			<property name="Effect" value="Haste: To summon this card from your hand you must pay 5 Gold. Smite: Draw 2 cards. Perish: Banish this card" />
+			<property name="Attack" value="18" />
+			<property name="Stamina" value="1" />
 			<property name="Defense" value="0" />
 		</card>
 		<card name="Cloud Beast Octavian" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe018" >
@@ -107,8 +117,9 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="(-3 Gold) This card can special summon itself from your hand, it cannot be normal summoned. Cannot attack the turn it was summoned. Cannot attack unless there is at least one Cloud Herder on your field. If this monster attacked on your turn, banish it when you end your turn. Passive: This card can attack twice (-1 Gold)" />
+			<property name="Effect" value="Haste: To summon this card from your hand you must pay 10 Gold. +1 Bloodlust. Perish: Banish this card." />
 			<property name="Attack" value="19" />
+			<property name="Stamina" value="1" />
 			<property name="Defense" value="0" />
 		</card>
 		<card name="Cloud Beast Leviathan" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe019" >
@@ -117,18 +128,20 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="(-8 Gold) This card can special summon itself from your hand but can't be used for tribute summon. Cannot attack the turn it was summoned. Cannot attack unless there is at least one Cloud Herder on your field. If this monster attacked on your turn, banish it when you end your turn. When Summoned: choose one wind-beast monster on your side of the field. It cannot be banished this turn. (-1 Gold)" />
-			<property name="Attack" value="23" />
+			<property name="Effect" value="Haste: To summon this card from your hand you must pay 10 Gold. Overcharged: 15. Perish: Banish this card" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="1" />
 			<property name="Defense" value="0" />
 		</card>
-		<card name="Cloud Beast Leo" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe020" >
+		<card name="Cloud Beast Bison" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe020" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="(-8 Gold) This card can special summon itself from your hand but can't be used for tribute summon. Cannot attack the turn it was summoned. Cannot attack unless there is at least one Cloud Herder on your field. If this monster attacked on your turn, banish it when you end your turn. When this card inflicts battle damage Draw 5 cards. If this resets your deck, you don't pay. (-1 Gold)" />
-			<property name="Attack" value="25" />
+			<property name="Effect" value="Haste: To summon this card from your hand you must pay 5 Gold. Battlecry: Select one Wind-Beast, increase the stamina by +1. Perish: Banish this card" />
+			<property name="Attack" value="15" />
+			<property name="Stamina" value="1" />
 			<property name="Defense" value="0" />
 		</card>
 		<card name="Skyward Bound" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe022" >
@@ -137,8 +150,9 @@
 			<property name="Type" value="Field" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="All Wind-Beasts deal piercing damage. +5 Gold per turn" />
+			<property name="Effect" value="Wind monsters gain Piercing Damage. +10 Gold Per Turn" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Parting Clouds" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe023" >
@@ -147,28 +161,31 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="During this turn, if a Wind Monster on your field would be banished, return it to your hand instead. (-5 Gold)" />
+			<property name="Effect" value="Continuous Effect (-10 Gold): If a wind monster would be Banished, recall it." />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Pay Day" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe024" >
+		<card name="Greed" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe024" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Pay Half your LP. Receive +10 Gold. This effect can only be activated once per turn." />
+			<property name="Effect" value="Counter Spell: When your opponent gains Gold, you gain the same amount but you must give a monster on your board Blowback equal to the amount you gained." />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Buy Low, Sell High" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe025" >
+		<card name="Shivering Winds" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe025" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="In 3 turns receive +15 Gold. This effect can only be activated once every 3 turns. (-5 Gold)" />
+			<property name="Effect" value="Continuous Spell: Both players can only choose 1 monster to attack each turn. -12 Gold. 2 Stamina" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Raincheck" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe026" >
@@ -177,8 +194,9 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="You can only use this effect once during this turn. When a card asks you to pay gold this turn, it's cost becomes zero. Next turn pay double its original cost." />
+			<property name="Effect" value="When a card asks for you to pay gold, don’t pay it until your next turn but that price doubles. This card cannot be recalled" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Windstream" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe027" >
@@ -187,11 +205,12 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="For this turn only any effect that has a gold cost for wind monsters is reduced by 2. (-10 Life Points Per Use)" />
+			<property name="Effect" value="The Gold cost of all your wind monsters drop by 5 Gold for this turn only. This card cannot be recalled. -10 HP per use" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
                 </card>
-		<card name="Feather Duster" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe029" >
+		<card name="Ceremonial Feather" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe029" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
 			<property name="Type" value="Spell" />
@@ -199,6 +218,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Banish a Wind monster on your side of the field. Destroy one monster your opponent controls. (-4 Gold)" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Hopeless Pokeless" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe030" >
@@ -207,8 +227,9 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="All Wind-Mages summoned this turn gain an additional 20 defense, but they now have Weak Shield: Reduce the defense of this monster's defense equal to the attacking monster's attack. This effect can only be activated once per turn. (-5 Gold)" />
+			<property name="Effect" value="Counter Spell: Sacrifice a Wind monster on your board and cripple one monster for a turn. -15 Gold" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Swift Knight" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe031" >
@@ -217,8 +238,9 @@
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Warrior" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Wind Monster + Wind Monster) When summoned deal 10 damage to your opponent's life points (-2 Gold)." />
+			<property name="Effect" value="(Wind Monster + Wind Monster) Battlecry: Deal 10 Damage directly to your opponent." />
 			<property name="Attack" value="19" />
+			<property name="Stamina" value="2" />
 			<property name="Defense" value="5" />
 		</card>
 		<card name="Cloud Herder Mia" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe032" >
@@ -227,28 +249,31 @@
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Cloud Herder monster + Cloud Herder monster) When Summoned: Draw 1 card for every card of yours that has been banished. If this would trigger a deck reset, pay half the cost. (-5 Gold)" />
-			<property name="Attack" value="5" />
-			<property name="Defense" value="21" />
+			<property name="Effect" value="(Cloud Herder monster + Cloud Herder monster) Battlecry: Draw 1 card for every card of yours that’s banished. If this would trigger a reset, don’t pay the reset cost. -5 Gold" />
+			<property name="Attack" value="20" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="10" />
 		</card>
-		<card name="Cloud Herder Elian" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe033" >
+		<card name="Cloud Herder Ely" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe033" >
 			<property name="Level" value="2" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Cloud Herder monster + Cloud Herder monster) When Summoned: if there's a cloud beast on your side of the field add up to 2 spell cards from your deck to your hand or choose to gain 5 Gold. (-10 Life Points)" />
-			<property name="Attack" value="16" />
-			<property name="Defense" value="18" />
+			<property name="Effect" value="(Cloud Herder monster + Cloud Herder monster) Battlecry: Add up to 2 Spells or Spellbinders from your deck and/or graveyard to your hand. -5 Gold Per Card" />
+			<property name="Attack" value="15" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="5" />
 		</card>
-		<card name="Cloud Bast Harold" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe034" >
+		<card name="Cloud Bast Herald" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe034" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Cloud Beast monster + Cloud Beast monster) (-5 Gold) This card can special summon itself from your hand but cannot be normal summoned. Cannot attack the turn it's summoned. Cannot attack unless there's a cloud beast on your side of the field. If this card attacks on your turn, it's banished at the end of your turn. Passive: For every monster of yours that's been banished, increase the attack of all Wind monsters by 5. (-1 Gold)" />
-			<property name="Attack" value="32" />
+			<property name="Effect" value="(Cloud Beast monster + Cloud Beast monster) Haste: To summon this card from your hand you must pay 15 Gold. Support: For every card of yours that’s banished, increase the attack of Wind-Beasts by 2 Perish: banish this card" />
+			<property name="Attack" value="20" />
+			<property name="Stamina" value="1" />
 			<property name="Defense" value="0" />
 		</card>
 		<card name="Lady in the Clouds" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe035" >
@@ -257,8 +282,9 @@
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Wind Monster + Beast Monster) This card is unnafected by card effects. As long as this card remains on the field, opponents may only target this monster for an attack. Weak Shield: Opponents can attack and reduce the defense of this card equal to the attacking monster's attack. When summoned: disable one effect on the field except this card. (-4 Gold)" />
+			<property name="Effect" value="(Wind Monster + Beast Monster) Divinity. Taunt. Disable: One monster on the field. -10 Gold " />
 			<property name="Attack" value="0" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="50" />
 		</card>
 		<card name="Wereworld" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe036" >
@@ -269,6 +295,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Temporarily Increase the attack of all Beast monsters on your side of the field by 5, only on your turn. On your opponent’s turn, all Dark monsters on your side of the field cost 2 less life points to activate their effects. +3 Gold per turn" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="A Cursed Knight" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe037" >
@@ -279,6 +306,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Passive:  If this card is removed from the field, your opponent pays you 10 gold. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 18. When your turn is over, this monster is transformed back into its original state." />
 			<property name="Attack" value="5" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="10" />
 		</card>
 		<card name="A Cursed Gravekeeper" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe038" >
@@ -289,6 +317,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Passive: If this card is removed from the field, Special Summon one “Cursed” monster from your graveyard. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 15. When your turn is over, this monster is transformed back into its original state." />
 			<property name="Attack" value="1" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="1" />
 		</card>
 		<card name="A Cursed Priest" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe039" >
@@ -299,6 +328,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Passive: If this card is removed from the field, your opponent cannot make an attack for 1 turn. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 15. When your turn is over, this monster is transformed back into its original state." />
 			<property name="Attack" value="0" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="0" />
 		</card>
 		<card name="A Cursed Lord" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe040" >
@@ -309,6 +339,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Passive: If this card is removed from the field, Special Summon one “Cursed” monster from your deck. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 15. When your turn is over, this monster is transformed back into its original state." />
 			<property name="Attack" value="0" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="16" />
 		</card>
 		<card name="A Cursed King" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe041" >
@@ -319,6 +350,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Passive: If this card would be removed from the field, add this card to your hand instead (-20LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 20. When your turn is over, this monster is transformed back into its original state." />
 			<property name="Attack" value="10" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="19" />
 		</card>
 		<card name="Wicked" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe042" >
@@ -329,6 +361,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="When Summoned: Duplicate this card and Special Summon it, but it has no effect. You can only activate this effect if this monster’s attack is higher than its original attack when it’s summoned. (-8 Gold)" />
 			<property name="Attack" value="15" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="2" />
 		</card>
 		<card name="Silver Back" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe043" >
@@ -339,6 +372,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="When Summoned: Reduce the attack of one monster on your opponent’s side of the field by 10 temporarily for this turn. You can only activate this effect if this monster’s attack is higher than its original attack. (-8 Gold)" />
 			<property name="Attack" value="20" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="8" />
 		</card>
 		<card name="Deranged Hellbeast" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe044" >
@@ -349,6 +383,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Passive: When this monster battles another monster, destroy that monster regardless of the outcome. (-10 Gold)" />
 			<property name="Attack" value="22" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="10" />
 		</card>
 		<card name="Weredoom" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe045" >
@@ -359,6 +394,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="When Summoned: Banish 1 “beast” monster on your side of the field and in 3 turns, Special Summon 2 copies of it. (-30LP in 3 Turns)" />
 			<property name="Attack" value="15" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="5" />
 		</card>
 		<card name="Gold Hound" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe046" >
@@ -369,6 +405,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Passive: If this card is removed from the field gain +3 Gold (-5LP)" />
 			<property name="Attack" value="15" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="0" />
 		</card>
 		<card name="Lichd Wolf" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe047" >
@@ -379,6 +416,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="" />
 			<property name="Attack" value="26" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="0" />
 		</card>
 		<card name="Full Moon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe048" >
@@ -389,6 +427,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="The Gold cost for “Beast” monsters on your side of the field are reduced by 5 this turn. (-10LP)" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Fury" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe049" >
@@ -399,6 +438,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Select 1 “Beast” monster on your side of the field. It can attack twice this turn. (-10 Gold)" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="A Cursed Shield" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe050" >
@@ -419,6 +459,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Return one “Dark-Warrior” monster on your side of the field to your hand. (-7 Gold)" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Binding Smite" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe052" >
@@ -429,6 +470,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Banish 2 monsters from your hand, then Banish 1 card on the field. (-10 Gold)" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Pride" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe053" >
@@ -439,6 +481,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="If you would summon a “Beast” monster this turn that requires tributes, it would cost 1 less tribute. (-6 Gold)" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="A Beastly Crown" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe054" >
@@ -449,6 +492,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Equip this to a “Beast” monster only. Whenever this monster destroys another monster by combat, gain +4 Gold. (-6LP) If this card would be removed from the field, return it to the hand instead. (-10LP)" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="An Experiment Gone Wrong" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe055" >
@@ -459,6 +503,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="If your opponent targets a “Dark-Warrior” monster for an attack; Banish it and special summon a “transformed” monster from your hand. If that monster can only be transformed during your turn, ignore it for this battle phase only. (-5 Gold)" />
 			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="A Cursed Queen" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe056" >
@@ -469,6 +514,7 @@
 			<property name="Rarity" value="R" />
 			<property name="Effect" value="(Banish 2 Light-Beasts from your Graveyard) Passive: If this card is removed from the field, Banish 1 card from on the field. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 10. When your turn is over, this monster is transformed back into its original state." />
 			<property name="Attack" value="20" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="5" />
 		</card>
 		<card name="Hellbeast Behemoth" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe057" >
@@ -479,6 +525,7 @@
 			<property name="Rarity" value="R" />
 			<property name="Effect" value="(Banish 4 Beast Monsters from your field) Passive: When this monster battles another monster, Banish that monster. (-20LP)" />
 			<property name="Attack" value="45" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="10" />
 		</card>
 		<card name="Lich Battleboar" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe058" >
@@ -489,6 +536,7 @@
 			<property name="Rarity" value="R" />
 			<property name="Effect" value="(Banish 2 beast monsters from your field and hand)" />
 			<property name="Attack" value="32" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="0" />
 		</card>
 		<card name="Spellbeast" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe059" >
@@ -499,6 +547,7 @@
 			<property name="Rarity" value="R" />
 			<property name="Effect" value="(Banish 1 beast monster from your field) Add 1 Spell Card from your deck to your hand (-10LP)" />
 			<property name="Attack" value="15" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="15" />
 		</card>
 		<card name="The Pack Leader" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe060" >
@@ -509,6 +558,7 @@
 			<property name="Rarity" value="R" />
 			<property name="Effect" value="(Banish 5 Beast monsters from your deck) When Summoned: Special summon 3 “Demon-Beast” Minions whose attack and defense is 3 and 3." />
 			<property name="Attack" value="5" />
+			<property name="Stamina" value="" />
 			<property name="Defense" value="5" />
 		</card>
 	</cards>

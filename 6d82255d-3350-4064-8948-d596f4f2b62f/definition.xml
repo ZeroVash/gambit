@@ -20,6 +20,7 @@
 		<property name="Rarity" type="String" textKind="Enum" ignoreText="False" />
 		<property name="Effect" type="String" ignoreText="False" />
 		<property name="Attack" type="Integer" hidden="False" />
+		<property name="Stamina" type="Integer" hidden="False" />
 		<property name="Defense" type="Integer" hidden="False" />		
 	</card>
 	<table name="Battle Zone" visibility="undefined" ordered="False" width="800" height="600" board="proxy/blank.png" background="background/background.jpg" backgroundStyle="uniformToFill">
