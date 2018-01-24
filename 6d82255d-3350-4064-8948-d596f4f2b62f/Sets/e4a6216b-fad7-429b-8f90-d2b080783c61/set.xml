@@ -293,7 +293,7 @@
 			<property name="Type" value="Field" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Temporarily Increase the attack of all Beast monsters on your side of the field by 5, only on your turn. On your opponent’s turn, all Dark monsters on your side of the field cost 2 less life points to activate their effects. +3 Gold per turn" />
+			<property name="Effect" value="Temporarily increase the attack of all Beast monsters by 5 on your turn. +10 Gold Per Turn" />
 			<property name="Attack" value="" />
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
@@ -304,9 +304,9 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Warrior" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive:  If this card is removed from the field, your opponent pays you 10 gold. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 18. When your turn is over, this monster is transformed back into its original state." />
-			<property name="Attack" value="5" />
-			<property name="Stamina" value="" />
+			<property name="Effect" value="Withdraw: Steal 4 Gold from your opponent. -10HP. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 16." />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="3" />
 			<property name="Defense" value="10" />
 		</card>
 		<card name="A Cursed Gravekeeper" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe038" >
@@ -315,9 +315,9 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Warrior" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive: If this card is removed from the field, Special Summon one “Cursed” monster from your graveyard. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 15. When your turn is over, this monster is transformed back into its original state." />
+			<property name="Effect" value="Withdraw: Summon a Dark monster from your graveyard. - 6 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 10." />
 			<property name="Attack" value="1" />
-			<property name="Stamina" value="" />
+			<property name="Stamina" value="3" />
 			<property name="Defense" value="1" />
 		</card>
 		<card name="A Cursed Priest" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe039" >
@@ -326,9 +326,9 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Warrior" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive: If this card is removed from the field, your opponent cannot make an attack for 1 turn. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 15. When your turn is over, this monster is transformed back into its original state." />
+			<property name="Effect" value="Withdraw: Obstruct your opponent for 1 turn. - 5 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 10." />
 			<property name="Attack" value="0" />
-			<property name="Stamina" value="" />
+			<property name="Stamina" value="3" />
 			<property name="Defense" value="0" />
 		</card>
 		<card name="A Cursed Lord" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe040" >
@@ -337,21 +337,21 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Warrior" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive: If this card is removed from the field, Special Summon one “Cursed” monster from your deck. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 15. When your turn is over, this monster is transformed back into its original state." />
-			<property name="Attack" value="0" />
+			<property name="Effect" value="Withdraw: Summon Dark-Warrior or Light-Beast from your deck. - 8 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 10." />
+			<property name="Attack" value="8" />
 			<property name="Stamina" value="" />
-			<property name="Defense" value="16" />
+			<property name="Defense" value="13" />
 		</card>
-		<card name="A Cursed King" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe041" >
+		<card name="A Cursed Queen" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe041" >
 			<property name="Level" value="1" />
 			<property name="Attribute" value="Dark" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Warrior" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive: If this card would be removed from the field, add this card to your hand instead (-20LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 20. When your turn is over, this monster is transformed back into its original state." />
-			<property name="Attack" value="10" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="19" />
+			<property name="Effect" value="Withdraw: Recall this card. - 10 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 22" />
+			<property name="Attack" value="18" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="20" />
 		</card>
 		<card name="Wicked" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe042" >
 			<property name="Level" value="0" />
@@ -359,21 +359,21 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When Summoned: Duplicate this card and Special Summon it, but it has no effect. You can only activate this effect if this monster’s attack is higher than its original attack when it’s summoned. (-8 Gold)" />
-			<property name="Attack" value="15" />
-			<property name="Stamina" value="" />
+			<property name="Effect" value="Duplicate this card only if it’s attack increases but the duplicate loses it’s ability. -10 Gold" />
+			<property name="Attack" value="16" />
+			<property name="Stamina" value="3" />
 			<property name="Defense" value="2" />
 		</card>
-		<card name="Silver Back" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe043" >
+		<card name="Silver Back Freak" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe043" >
 			<property name="Level" value="1" />
 			<property name="Attribute" value="Light" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When Summoned: Reduce the attack of one monster on your opponent’s side of the field by 10 temporarily for this turn. You can only activate this effect if this monster’s attack is higher than its original attack. (-8 Gold)" />
+			<property name="Effect" value="Battlecy: Reduce the attack of one monster by 10. -10 Gold. Trample. -10HP" />
 			<property name="Attack" value="20" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="8" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="20" />
 		</card>
 		<card name="Deranged Hellbeast" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe044" >
 			<property name="Level" value="2" />
@@ -381,10 +381,10 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive: When this monster battles another monster, destroy that monster regardless of the outcome. (-10 Gold)" />
-			<property name="Attack" value="22" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="10" />
+			<property name="Effect" value="Smite: Burn your opponent for 8HP. +3 Plunder. -7HP" />
+			<property name="Attack" value="30" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="15" />
 		</card>
 		<card name="Weredoom" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe045" >
 			<property name="Level" value="1" />
@@ -392,94 +392,94 @@
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="When Summoned: Banish 1 “beast” monster on your side of the field and in 3 turns, Special Summon 2 copies of it. (-30LP in 3 Turns)" />
-			<property name="Attack" value="15" />
-			<property name="Stamina" value="" />
+			<property name="Effect" value="Battlecry: Duplicate a transformed Light-Beast monster. Blowback - 20 Gold" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="2" />
 			<property name="Defense" value="5" />
 		</card>
-		<card name="Gold Hound" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe046" >
+		<card name="A Golden Pupper" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe046" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Light" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Passive: If this card is removed from the field gain +3 Gold (-5LP)" />
-			<property name="Attack" value="15" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="0" />
+			<property name="Effect" value="Once Per Turn: Gain +5 Gold. Blowback - 10 Gold" />
+			<property name="Attack" value="2" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="2" />
 		</card>
-		<card name="Lichd Wolf" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe047" >
+		<card name="Combat-Ready Battlecat ZERO X" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe047" >
 			<property name="Level" value="1" />
-			<property name="Attribute" value="Undead" />
+			<property name="Attribute" value="Machine" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="" />
-			<property name="Attack" value="26" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="0" />
+			<property name="Attack" value="15" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="5" />
 		</card>
-		<card name="Full Moon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe048" >
+		<card name="Fury" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe048" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="The Gold cost for “Beast” monsters on your side of the field are reduced by 5 this turn. (-10LP)" />
+			<property name="Effect" value="Select one beast monster and give it +1 Bloodlust. -10 Gold " />
 			<property name="Attack" value="" />
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Fury" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe049" >
+		<card name="A Cursed Shield" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe049" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Select 1 “Beast” monster on your side of the field. It can attack twice this turn. (-10 Gold)" />
+			<property name="Effect" value="Counter Spell: Switch a Dark-Warrior monster into defense and give it +20 defense. At the end of the turn, switch that monster into attack mode. - 8 Gold" />
 			<property name="Attack" value="" />
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="A Cursed Shield" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe050" >
-			<property name="Level" value="" />
-			<property name="Attribute" value="" />
-			<property name="Type" value="Counter-Spell" />
-			<property name="Race" value="" />
-			<property name="Rarity" value="C" />
-			<property name="Effect" value="If you opponent attempts to attack a “Dark-Warrior” monster; switch it into defense mode if it isn’t already and give that monster 20 defense for the remainder of this battle phase. (-7 Gold)" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-		</card>
-		<card name="Dark Smite" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe051" >
-			<property name="Level" value="" />
-			<property name="Attribute" value="" />
-			<property name="Type" value="Counter-Spell" />
-			<property name="Race" value="" />
-			<property name="Rarity" value="C" />
-			<property name="Effect" value="Return one “Dark-Warrior” monster on your side of the field to your hand. (-7 Gold)" />
-			<property name="Attack" value="" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="" />
-		</card>
-		<card name="Binding Smite" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe052" >
+		<card name="Forbidden Recall" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe050" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Banish 2 monsters from your hand, then Banish 1 card on the field. (-10 Gold)" />
+			<property name="Effect" value="Counter Spell: Recall one Dark-Warrior monster. -5 Gold. If you opponent attempts to attack a “Dark-Warrior” monster; switch it into defense mode if it isn’t already and give that monster 20 defense for the remainder of this battle phase. (-7 Gold)" />
 			<property name="Attack" value="" />
-			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Pride" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe053" >
+		<card name="Blinding Smite" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe051" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="If you would summon a “Beast” monster this turn that requires tributes, it would cost 1 less tribute. (-6 Gold)" />
+			<property name="Effect" value="Banish two Light monsters from your hand then banish an opponent’s card. -10 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Pride" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe052" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="This turn tributes for beast monsters are reduced by 1. -6 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Beastly Crown" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe053" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell: Give a beast monster + 3 Plunder. -15HP" />
 			<property name="Attack" value="" />
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
@@ -487,35 +487,35 @@
 		<card name="A Beastly Crown" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe054" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
-			<property name="Type" value="Equip-Spell" />
+			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Equip this to a “Beast” monster only. Whenever this monster destroys another monster by combat, gain +4 Gold. (-6LP) If this card would be removed from the field, return it to the hand instead. (-10LP)" />
+			<property name="Effect" value="Transform a monster with the Transform ability and give it +10 Attack permanently. -20HP" />
 			<property name="Attack" value="" />
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="An Experiment Gone Wrong" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe055" >
+		<card name="Pupper Exchange Service" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe055" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
-			<property name="Type" value="Counter-Spell" />
+			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="If your opponent targets a “Dark-Warrior” monster for an attack; Banish it and special summon a “transformed” monster from your hand. If that monster can only be transformed during your turn, ignore it for this battle phase only. (-5 Gold)" />
+			<property name="Effect" value="Banish one beast monster from your hand and get gold equal to half of it’s attack" />
 			<property name="Attack" value="" />
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="A Cursed Queen" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe056" >
-			<property name="Level" value="2" />
+		<card name="A Cursed King" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe056" >
+			<property name="Level" value="1" />
 			<property name="Attribute" value="Dark" />
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Warrior" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Banish 2 Light-Beasts from your Graveyard) Passive: If this card is removed from the field, Banish 1 card from on the field. (-10LP) Transform: This monster transforms into a Light-Beast on your turn and loses its passive. While this monster is a Light-Beast monster, this monster’s attack is temporarily increased by 10. When your turn is over, this monster is transformed back into its original state." />
+			<property name="Effect" value="(A Cursed Monster + Beast Monster) Withdraw: Banish 1 card. -6 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 28" />
 			<property name="Attack" value="20" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="5" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="25" />
 		</card>
 		<card name="Hellbeast Behemoth" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe057" >
 			<property name="Level" value="3" />
@@ -523,21 +523,21 @@
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Banish 4 Beast Monsters from your field) Passive: When this monster battles another monster, Banish that monster. (-20LP)" />
-			<property name="Attack" value="45" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="10" />
+			<property name="Effect" value="(Beast Monster + Beast Monster + Beast Monster) Smite: Banish that monster instead" />
+			<property name="Attack" value="35" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="20" />
 		</card>
-		<card name="Lich Battleboar" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe058" >
+		<card name="Combat-Ready Fortcrab Alpha G" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe058" >
 			<property name="Level" value="2" />
-			<property name="Attribute" value="Undead" />
+			<property name="Attribute" value="Machine" />
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Banish 2 beast monsters from your field and hand)" />
-			<property name="Attack" value="32" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="0" />
+			<property name="Effect" value="(Beast Monster + 20HP) Taunt: Only if there is another beast monster on your board" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="55" />
 		</card>
 		<card name="Spellbeast" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe059" >
 			<property name="Level" value="0" />
@@ -545,21 +545,32 @@
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Banish 1 beast monster from your field) Add 1 Spell Card from your deck to your hand (-10LP)" />
-			<property name="Attack" value="15" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="15" />
+			<property name="Effect" value="(Beast Monster) Battlecry: Add one spell card from your deck to your hand or add one Spell card from your Graveyard. -10 Gold" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="5" />
 		</card>
-		<card name="The Pack Leader" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe060" >
+		<card name="Hungry Hungry Werepo" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe060" >
 			<property name="Level" value="0" />
-			<property name="Attribute" value="Demon" />
+			<property name="Attribute" value="Light" />
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="R" />
-			<property name="Effect" value="(Banish 5 Beast monsters from your deck) When Summoned: Special summon 3 “Demon-Beast” Minions whose attack and defense is 3 and 3." />
+			<property name="Effect" value="(Light-Beast + 20 HP) Once Per Turn: Double this monster’s attack. Hunger: Banish 1 Beast monster from your hand every turn to increase the stamina of this card" />
+			<property name="Attack" value="1" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="0" />
+		</card>
+		<card name="A Cursed guard" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe061" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Dark" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Beast" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="Withdraw: Summon a Warrior or Beast monster from your hand. - 6 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 10." />
 			<property name="Attack" value="5" />
-			<property name="Stamina" value="" />
-			<property name="Defense" value="5" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="20" />
 		</card>
 	</cards>
 </set>
