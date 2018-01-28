@@ -473,7 +473,7 @@
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Beastly Crown" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe053" >
+		<card name="A Beastly Crown" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe053" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
 			<property name="Type" value="Spell" />
@@ -484,7 +484,7 @@
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="A Beastly Crown" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe054" >
+		<card name="An Experiment Gone Wrong" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe054" >
 			<property name="Level" value="" />
 			<property name="Attribute" value="" />
 			<property name="Type" value="Spell" />
@@ -616,7 +616,7 @@
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="9" />
 		</card>
-		<card name="Hotshot Horra" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe065" >
+		<card name="Hotshot Horra" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe066" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -627,7 +627,7 @@
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="10" />
 		</card>
-		<card name="Hotshot Carvy" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe066" >
+		<card name="Hotshot Carvy" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe067" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -638,7 +638,7 @@
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="10" />
 		</card>
-		<card name="Hotshot Zip" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe067" >
+		<card name="Hotshot Zip" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe068" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -649,7 +649,7 @@
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="10" />
 		</card>
-		<card name="Hotshot Hart" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe068" >
+		<card name="Hotshot Hart" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe069" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -660,7 +660,7 @@
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="8" />
 		</card>
-		<card name="Hotshot Booney" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe069" >
+		<card name="Hotshot Booney" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe070" >
 			<property name="Level" value="1" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -671,7 +671,7 @@
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="10" />
 		</card>
-		<card name="Hotshot James" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe070" >
+		<card name="Hotshot James" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe071" >
 			<property name="Level" value="1" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -682,7 +682,7 @@
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="10" />
 		</card>
-		<card name="Hotshot The Legendary Rider" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe071" >
+		<card name="Hotshot The Legendary Rider" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe072" >
 			<property name="Level" value="2" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -693,7 +693,7 @@
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="0" />
 		</card>
-		<card name="Hotshot Widespread" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe072" >
+		<card name="Hotshot Widespread" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe073" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -704,7 +704,7 @@
 			<property name="Stamina" value="5" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Hotshot Akimbo" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe073" >
+		<card name="Hotshot Akimbo" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe074" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -715,7 +715,7 @@
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Hotshot Revolver" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe074" >
+		<card name="Hotshot Revolver" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe075" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -726,7 +726,7 @@
 			<property name="Stamina" value="5" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Hotshot Bazooka" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe075" >
+		<card name="Hotshot Bazooka" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe076" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -737,7 +737,7 @@
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Golden Damascus" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe076" >
+		<card name="Golden Damascus" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe077" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -748,7 +748,7 @@
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Most Wanted" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe077" >
+		<card name="Most Wanted" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe078" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -759,7 +759,7 @@
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Revolver Snake" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe078" >
+		<card name="Revolver Snake" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe079" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -770,7 +770,7 @@
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Neodiamond Blade" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe079" >
+		<card name="Neodiamond Blade" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe080" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -781,7 +781,7 @@
 			<property name="Stamina" value="1" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Restock" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe080" >
+		<card name="Restock" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe081" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -792,7 +792,7 @@
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Last Call" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe081" >
+		<card name="Last Call" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe082" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Spell" />
@@ -803,7 +803,7 @@
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
-		<card name="Hotshot Jimmy" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe082" >
+		<card name="Hotshot Jimmy" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe083" >
 			<property name="Level" value="1" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -814,7 +814,7 @@
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="5" />
 		</card>
-		<card name="Hotshot Disastrous" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe083" >
+		<card name="Hotshot Disastrous" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe084" >
 			<property name="Level" value="3" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -825,7 +825,7 @@
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="10" />
 		</card>
-		<card name="The Forgotten Blade of Tomorrow" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe084" >
+		<card name="The Forgotten Blade of Tomorrow" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe085" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -836,7 +836,7 @@
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="0" />
 		</card>
-		<card name="A Forgotten Bow and its Arrows" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe085" >
+		<card name="A Forgotten Bow and its Arrows" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe086" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -847,7 +847,7 @@
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="0" />
 		</card>
-		<card name="Lava Cannon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe086" >
+		<card name="Lava Cannon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe087" >
 			<property name="Level" value="0" />
 			<property name="Attribute" value="Fire" />
 			<property name="Type" value="Monster" />
@@ -857,6 +857,17 @@
 			<property name="Attack" value="0" />
 			<property name="Stamina" value="5" />
 			<property name="Defense" value="15" />
+		</card>
+		<card name="A Cursed Guard" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe088" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Dark" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Withdraw: Summon a Warrior or Beast monster from your hand. - 8 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 10." />
+			<property name="Attack" value="5" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="20" />
 		</card>
 	</cards>
 </set>
