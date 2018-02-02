@@ -183,9 +183,9 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="Continuous Spell: Both players can only choose 1 monster to attack each turn. -12 Gold. 2 Stamina" />
+			<property name="Effect" value="Continuous Spell: Both players can only choose 1 monster to attack each turn. -12 Gold." />
 			<property name="Attack" value="" />
-			<property name="Stamina" value="" />
+			<property name="Stamina" value="2" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Raincheck" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe026" >
@@ -339,7 +339,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Withdraw: Summon Dark-Warrior or Light-Beast from your deck. - 8 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 10." />
 			<property name="Attack" value="8" />
-			<property name="Stamina" value="" />
+			<property name="Stamina" value="3" />
 			<property name="Defense" value="13" />
 		</card>
 		<card name="A Cursed Queen" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe041" >
@@ -857,6 +857,292 @@
 			<property name="Attack" value="0" />
 			<property name="Stamina" value="5" />
 			<property name="Defense" value="15" />
+		</card>
+		<card name="The Wailing Mistress" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe087" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="1) Deal 5 Damage directly to your opponent at the beginning of their turn. 2)  You can summon 1 additional Pirate monster per turn but the cost is 5 Gold. +2 Gold Per Turn" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="The Lacky of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe088" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+1 Plunder. -3HP" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="5" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Gunner of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe089" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+2 Plunder. -5HP.´+4 Overcharge" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Cook of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe090" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+3 Plunder. -7HP. Support: If you loot 5 gold or more in a turn, increase the attack of all pirates by +2. " />
+			<property name="Attack" value="15" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Greenhorn of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe091" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+1 Plunder. -3HP. Taunt" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="15" />
+		</card>
+		<card name="The Navigator of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe092" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+1 Plunder. -3HP. Battlecry: Summon a Pirate monster from your deck. -10 Gold" />
+			<property name="Attack" value="8" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Doctor of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe093" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+2 Plunder. -5HP. +1 Plague" />
+			<property name="Attack" value="12" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Master Gunner of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe094" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+3 Plunder. -7HP. +10 Overcharge. -5 Gold" />
+			<property name="Attack" value="16" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Swordsman of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe095" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+4 Plunder. -10HP. Smite: Convert monsters destroyed by this card. -10 Gold" />
+			<property name="Attack" value="18" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Pepper, a Pretty Bird" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe096" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Dragon-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+4 Plunder. -10HP. Battlecry: Cripple 1 monster. -10HP" />
+			<property name="Attack" value="20" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Captain Boomer of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe097" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="5 Plunder. -15 HP. Trample. -10 Gold. Support: Increase the attack of all other Pirates by +5 " />
+			<property name="Attack" value="25" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Steamboat Chilly" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe098" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Ice" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="If you plunder more than 10 Gold in a turn, gain +10 HP. -5 Gold" />
+			<property name="Attack" value="8" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Udupi Vermon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe099" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Toxic-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+1 Plunder. -3HP. Duplicate this card everytime it plunders." />
+			<property name="Attack" value="8" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Boatswain of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe100" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+2 Plunder. -5HP. Support: The Wailing Mistress can now attack at the beginning of your turn as well. -2 Gold" />
+			<property name="Attack" value="5" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Pirate Life for Me" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe101" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continuous - All converted monsters now become Pirates and gain the ability +1 Plunder. When this card is removed, destroy all converted Pirates. (They remain Pirates for the remainder of the game). -20 HP." />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Cursed Gold from Udupi Sea" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe102" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continuous - Instead of Pirates being destroyed, banish them instead. -10 Gold." />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="5" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Endless Riches" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe103" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continuous - Plunder +2 extra gold however the blowback on this card increases by 3 after each each attack. Blowback (HP)" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="5" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Mistress Upgrade" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe104" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Increase the damage of the Wailing Mistress by 2 permanently. -10 Gold. Recall: You can only use this card once per turn" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="A Gunner’s Wet Dream" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe105" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell - Equip to a Pirate monster and give it Sharpshooter but after it attacks, it’s attack becomes 0 until your next turn. -15 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="A Simple Booby Trap" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe106" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Counter Spell - If a Pirate would be destroyed by battle, banish 2 random pirate monsters from your hand. -7 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Haunted Rifle of Galleon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe107" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell - Increase the attack of 1 Pirate monster by +1 for every Pirate monster banished. -10 Gold. Once Per Turn: You can increase the stamina of this card by paying 10HP " />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Golden Tooth of Galleon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe108" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Damned-Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster + A Pirate Monster): Battlecry: Duplicate as many Pirate banished monsters you wish, however they lose their ability and they are now Damned-Pirate(s). -8 Gold. Perish: Banish this card" />
+			<property name="Attack" value="22" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="1" />
+		</card>
+		<card name="Turan Agustif of Galleon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe109" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Damned-Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster + A Pirate Monster): Battlecry: If there is more than 3 banished pirates, duplicate 1 spell card in your hand. -5 Gold. Perish: Banish this card" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="1" />
+		</card>
+		<card name="Admiral Sirendophilus " id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe110" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster + A Pirate Monster + 10 Gold): +3 Plunder. -10 HP. Battlecry: Give all Pirate monsters +3 Stamina. Piercing Damage" />
+			<property name="Attack" value="30" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="15" />
+		</card>
+		<card name="Warlord Vicious " id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe111" >
+			<property name="Level" value="3" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior-Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster + 15 Gold): +3 Plunder. -8HP. Smite: This card can attack again" />
+			<property name="Attack" value="28" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="12" />
+		</card>
+		<card name="Cuddles the Pirate Teddy Bear " id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe112" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Toy-Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster): +5 Plunder. -10 HP. Perish: Destroy one card" />
+			<property name="Attack" value="2" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="1" />
 		</card>
 	</cards>
 </set>
