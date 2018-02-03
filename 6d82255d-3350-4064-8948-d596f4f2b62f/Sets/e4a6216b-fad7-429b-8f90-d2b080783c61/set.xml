@@ -266,13 +266,13 @@
 			<property name="Defense" value="5" />
 		</card>
 		<card name="Cloud Bast Herald" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe034" >
-			<property name="Level" value="12G" />
+			<property name="Level" value="12" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="R" />
 			<property name="Effect" value="(Cloud Beast monster + Cloud Beast monster) This card can’t attack the turn its summoned. This card can’t attack unless there is a Cloud Herder on your board. When this card is destroyed, it’s banished instead.  Support: For every card of yours that’s banished, increase the Combat of Wind Monsters by 2" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="24" />
 		</card>
@@ -307,7 +307,7 @@
 			<property name="Effect" value="Withdraw: Steal 4 Gold from your opponent. -10HP. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new Combat is 16." />
 			<property name="Attack" value="10" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="A Cursed Gravekeeper" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe038" >
 			<property name="Level" value="0" />
@@ -318,7 +318,7 @@
 			<property name="Effect" value="Withdraw: Summon a Monster from the grave. - 6 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new Combat is 10." />
 			<property name="Attack" value="1" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="A Cursed Priest" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe039" >
 			<property name="Level" value="0" />
@@ -327,7 +327,7 @@
 			<property name="Race" value="Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Withdraw: Obstruct your opponent for 1 turn. - 5 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw, switches to Attack and new Combat is 10." />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="0" />
 		</card>
@@ -340,7 +340,7 @@
 			<property name="Effect" value="Withdraw: Summon a Dark Monster from your deck. - 8 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new Combat is 15." />
 			<property name="Attack" value="8" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="A Cursed Queen" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe041" >
 			<property name="Level" value="1" />
@@ -351,7 +351,7 @@
 			<property name="Effect" value="Withdraw: Recall this card. - 10 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 22" />
 			<property name="Attack" value="18" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Wicked" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe042" >
 			<property name="Level" value="0" />
@@ -362,7 +362,7 @@
 			<property name="Effect" value="Duplicate this card only if it’s Combat increases but the duplicate loses this ability. -10 Gold" />
 			<property name="Attack" value="16" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Silver Back Freak" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe043" >
 			<property name="Level" value="1" />
@@ -373,7 +373,7 @@
 			<property name="Effect" value="Battlecy: Reduce the Combat of one monster by 10. -10 HP. Trample. -10 Gold" />
 			<property name="Attack" value="20" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Deranged Hellbeast" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe044" >
 			<property name="Level" value="2" />
@@ -384,7 +384,7 @@
 			<property name="Effect" value="Smite: Burn your opponent for 8HP. +3 Plunder. -10 HP" />
 			<property name="Attack" value="30" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Weredoom" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe045" >
 			<property name="Level" value="1" />
@@ -395,7 +395,7 @@
 			<property name="Effect" value="Battlecry: Duplicate a transformed Beast monster. Blowback - 25 HP" />
 			<property name="Attack" value="10" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="A Golden Pupper" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe046" >
 			<property name="Level" value="0" />
@@ -404,7 +404,7 @@
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Once Per Turn: Gain +5 Gold. -10 HP" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="4" />
 			<property name="Defense" value="2" />
 		</card>
