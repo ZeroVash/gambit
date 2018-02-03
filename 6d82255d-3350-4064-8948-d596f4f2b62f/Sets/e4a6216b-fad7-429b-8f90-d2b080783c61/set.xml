@@ -10,7 +10,7 @@
 			<property name="Effect" value="Battlecry (-5 Gold): Add a Cloud Beast to your hand from your Deck or Graveyard." />
 			<property name="Attack" value="14" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cloud Herder Mek" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe001" >
 			<property name="Level" value="0" />
@@ -19,7 +19,7 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Battlecry (-8 Gold): Add a Beast OR a Mage to your hand from your Deck or Grave" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="14" />
 		</card>
@@ -30,7 +30,7 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Support: When a Cloud Beast is Banished gain + 5 Gold. Blowback: 20HP"/>
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="18" />
 		</card>
@@ -41,7 +41,7 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Battlecry: Summon 1 Cloud Beast but pay HP equal to the Gold required instead." />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="10" />
 		</card>
@@ -54,7 +54,7 @@
 			<property name="Effect" value="Support (-8 Gold): Gain one more additional summon for Wind monsters per turn. " />
 			<property name="Attack" value="16" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cloud Herder Kit" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe007" >
 			<property name="Level" value="0" />
@@ -63,7 +63,7 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Support (-10 Gold): When a Wind monster is removed from your board, summon another from your hand." />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="8" />
 		</card>
@@ -74,12 +74,12 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Battlecry (-10 Gold): Select a wind monster and give it +1 Bloodlust" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="5" />
 		</card>
 		<card name="Cloud Beast Dread" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe015" >
-			<property name="Level" value="15G" />
+			<property name="Level" value="15" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
@@ -87,10 +87,10 @@
 			<property name="Effect" value="This card can’t attack the turn its summoned. This card can’t attack unless there is a Cloud Herder on your board. When this card is destroyed, it’s banished instead. " />
 			<property name="Attack" value="50" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cloud Beast Leon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe016" >
-			<property name="Level" value="10G" />
+			<property name="Level" value="10" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
@@ -98,10 +98,10 @@
 			<property name="Effect" value="This card can’t attack the turn its summoned. This card can’t attack unless there is a Cloud Herder on your board. When this card is destroyed, it’s banished instead.  Smite (-10 Gold): Draw 3 cards. If this would trigger a reset, don’t pay the reset cost." />
 			<property name="Attack" value="25" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cloud Beast Pegasus" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe017" >
-			<property name="Level" value="5G" />
+			<property name="Level" value="5" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
@@ -109,10 +109,10 @@
 			<property name="Effect" value="This card can’t attack unless there is a Cloud Herder on your board. When this card is destroyed, it’s banished instead. Smite: Draw 2 cards. " />
 			<property name="Attack" value="18" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cloud Beast Octavian" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe018" >
-			<property name="Level" value="8G" />
+			<property name="Level" value="8" />
 			<property name="Attribute" value="Wind" />
 			<property name="Type" value="Monster" />
 			<property name="Race" value="Beast" />
@@ -120,7 +120,7 @@
 			<property name="Effect" value="This card can’t attack unless there is a Cloud Herder on your board. When this card is destroyed, it’s banished instead. +1 Bloodlust." />
 			<property name="Attack" value="19" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="0" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cloud Beast Leviathan" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe019" >
 			<property name="Level" value="5G" />
@@ -131,7 +131,7 @@
 			<property name="Effect" value="This card can’t attack unless there is a Cloud Herder on your board. When this card is destroyed, it’s banished instead. Overcharged: 15." />
 			<property name="Attack" value="10" />
 			<property name="Stamina" value="1" />
-			<property name="Defense" value="0" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cloud Beast Bison" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe020" >
 			<property name="Level" value="5G" />
@@ -140,7 +140,7 @@
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="When this card is destroyed, it's banished instead" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="20" />
 		</card>
@@ -241,7 +241,7 @@
 			<property name="Effect" value="(Wind Monster + Wind Monster) Battlecry: Deal 10 Damage directly to your opponent." />
 			<property name="Attack" value="19" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cloud Herder Mia" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe032" >
 			<property name="Level" value="3" />
@@ -252,7 +252,7 @@
 			<property name="Effect" value="(Cloud Herder monster + Cloud Herder monster) Battlecry: Draw 1 card for every card of yours that’s banished. If this would trigger a reset, don’t pay the reset cost. -5 Gold" />
 			<property name="Attack" value="20" />
 			<property name="Stamina" value="4" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cloud Herder Ely" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe033" >
 			<property name="Level" value="2" />
@@ -261,7 +261,7 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="R" />
 			<property name="Effect" value="(Cloud Herder monster + Cloud Herder monster) Battlecry: Add up to 2 Spells or Spellbinders from your deck and/or grave to your hand. -8 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="5" />
 		</card>
@@ -283,7 +283,7 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="R" />
 			<property name="Effect" value="(Wind Monster + Beast Monster) Divinity. Taunt. Disable: One monster on the field. -10 Gold " />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="50" />
 		</card>
@@ -417,7 +417,7 @@
 			<property name="Effect" value="Sharpshooter -10 Gold" />
 			<property name="Attack" value="15" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Fury" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe048" >
 			<property name="Level" value="" />
@@ -515,7 +515,7 @@
 			<property name="Effect" value="(A Cursed Monster + Beast Monster) Withdraw: Banish 1 card. -6 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 28" />
 			<property name="Attack" value="20" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Hellbeast Behemoth" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe057" >
 			<property name="Level" value="3" />
@@ -526,7 +526,7 @@
 			<property name="Effect" value="(Beast Monster + Beast Monster + Beast Monster) Smite: Banish that monster instead" />
 			<property name="Attack" value="35" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Combat-Ready Fortcrab Alpha G" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe058" >
 			<property name="Level" value="2" />
@@ -535,7 +535,7 @@
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="R" />
 			<property name="Effect" value="(Beast Monster + 20HP) Taunt: Only if there is another beast monster on your board" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="55" />
 		</card>
@@ -548,7 +548,7 @@
 			<property name="Effect" value="(Beast Monster) Battlecry: Retrieve 1 spell card from your deck or the grave. -10 Gold" />
 			<property name="Attack" value="10" />
 			<property name="Stamina" value="1" />
-			<property name="Defense" value="5" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Hungry Hungry Werepo" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe060" >
 			<property name="Level" value="0" />
@@ -559,7 +559,7 @@
 			<property name="Effect" value="(Light-Beast + 20 HP) Once Per Turn: Double this monster’s Combat." />
 			<property name="Attack" value="1" />
 			<property name="Stamina" value="5" />
-			<property name="Defense" value="0" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="do not pick this card" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe061" >
 			<property name="Level" value="0" />
@@ -568,7 +568,7 @@
 			<property name="Race" value="Beast" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Withdraw: Summon a Warrior or Beast monster from your hand. - 6 Gold. Transform: On your turn, becomes a Light-Beast, loses Withdraw and new attack is 10." />
-			<property name="Attack" value="5" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="20" />
 		</card>
@@ -878,7 +878,7 @@
 			<property name="Effect" value="+1 Plunder. -3HP" />
 			<property name="Attack" value="14" />
 			<property name="Stamina" value="5" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="The Gunner of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe089" >
 			<property name="Level" value="0" />
@@ -889,7 +889,7 @@
 			<property name="Effect" value="+2 Plunder. -5HP.´+4 Overcharge" />
 			<property name="Attack" value="14" />
 			<property name="Stamina" value="4" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="The Cook of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe090" >
 			<property name="Level" value="0" />
@@ -898,7 +898,7 @@
 			<property name="Race" value="Shark-Pirate" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="+3 Plunder. -7HP. Support: If you loot 5 gold or more in a turn, increase the Combat of all pirates by +2. " />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="17" />
 		</card>
@@ -911,7 +911,7 @@
 			<property name="Effect" value="+1 Plunder. -3HP. Taunt" />
 			<property name="Attack" value="10" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="The Navigator of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe092" >
 			<property name="Level" value="0" />
@@ -920,7 +920,7 @@
 			<property name="Race" value="Shark-Pirate" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="+1 Plunder. -3HP. Battlecry: Summon a Pirate monster from your deck. -10 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="12" />
 		</card>
@@ -933,7 +933,7 @@
 			<property name="Effect" value="Lifesteal" />
 			<property name="Attack" value="22" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="The Master Gunner of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe094" >
 			<property name="Level" value="1" />
@@ -944,7 +944,7 @@
 			<property name="Effect" value="+3 Plunder. -7HP. +10 Overcharge." />
 			<property name="Attack" value="16" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="The Swordsman of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe095" >
 			<property name="Level" value="1" />
@@ -955,7 +955,7 @@
 			<property name="Effect" value="+4 Plunder. -10HP. Smite: Convert monsters destroyed by this card. -10 Gold" />
 			<property name="Attack" value="18" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Pepper, a Pretty Bird" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe096" >
 			<property name="Level" value="2" />
@@ -966,7 +966,7 @@
 			<property name="Effect" value="+4 Plunder. -10HP. Battlecry: Cripple 1 monster. -10HP" />
 			<property name="Attack" value="20" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Captain Boomer of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe097" >
 			<property name="Level" value="2" />
@@ -977,7 +977,7 @@
 			<property name="Effect" value="5 Plunder. Trample. -10 HP. Support: Increase the Combat of all other Pirates by +5 -5 Gold" />
 			<property name="Attack" value="25" />
 			<property name="Stamina" value="4" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Steamboat Chilly" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe098" >
 			<property name="Level" value="0" />
@@ -986,7 +986,7 @@
 			<property name="Race" value="Pirate" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="If you plunder more than 10 Gold in a turn, gain +10 HP. -5 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="5" />
 			<property name="Defense" value="8" />
 		</card>
@@ -999,7 +999,7 @@
 			<property name="Effect" value="+1 Plunder. -3HP. Duplicate this card everytime it plunders." />
 			<property name="Attack" value="8" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Boatswain of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe100" >
 			<property name="Level" value="0" />
@@ -1008,7 +1008,7 @@
 			<property name="Race" value="Shark-Pirate" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="+2 Plunder. -5HP. Battlecry: Increase The Wailing Mistress’s damage by +5" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="8" />
 		</card>
@@ -1098,7 +1098,7 @@
 			<property name="Effect" value="(A Pirate Monster + A Pirate Monster): Battlecry: Duplicate as many Pirate banished monsters you wish, however they lose their ability and they are now Damned-Pirate(s). -8 Gold. Perish: Banish this card" />
 			<property name="Attack" value="22" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Turan Agustif of Galleon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe109" >
 			<property name="Level" value="1" />
@@ -1109,7 +1109,7 @@
 			<property name="Effect" value="(A Pirate Monster + A Pirate Monster): Battlecry: If there is more than 3 banished pirates, duplicate 1 spell card in your hand. -5 Gold. Perish: Banish this card" />
 			<property name="Attack" value="14" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Admiral Sirendophilus " id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe110" >
 			<property name="Level" value="2" />
@@ -1120,7 +1120,7 @@
 			<property name="Effect" value="(A Pirate Monster + A Pirate Monster + 10 Gold): +3 Plunder. -10 HP. Battlecry: Give all Pirate monsters +3 Stamina. Piercing Damage" />
 			<property name="Attack" value="30" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Warlord Vicious " id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe111" >
 			<property name="Level" value="3" />
@@ -1131,7 +1131,7 @@
 			<property name="Effect" value="(A Pirate Monster + 15 Gold): +3 Plunder. -8HP. Smite: This card can attack again" />
 			<property name="Attack" value="23" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cuddles the Pirate Teddy Bear " id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe112" >
 			<property name="Level" value="0" />
@@ -1142,7 +1142,7 @@
 			<property name="Effect" value="(A Pirate Monster): +5 Plunder. -1 HP. Perish:  Banish one card your opponent controls or 1 card from the Grave. -5 Gold" />
 			<property name="Attack" value="2" />
 			<property name="Stamina" value="1" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="A Magical Place" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe113" >
 			<property name="Level" value="0" />
@@ -1162,7 +1162,7 @@
 			<property name="Race" value="Enlightened-Spellbook" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Support: When a mage or spellbook is destroyed recall it instead. -8 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="14" />
 		</card>
@@ -1175,7 +1175,7 @@
 			<property name="Effect" value="Support: give a mage +1 Bloodlust. -12 Gold" />
 			<property name="Attack" value="14" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Totally Ripped Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe115" >
 			<property name="Level" value="0" />
@@ -1186,7 +1186,7 @@
 			<property name="Effect" value="Support: Give a mage +5 Combat and all other spellbooks +2 Combat -5 Gold" />
 			<property name="Attack" value="16" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Filled with Pictures Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe116" >
 			<property name="Level" value="0" />
@@ -1195,7 +1195,7 @@
 			<property name="Race" value="Toy-Spellbook" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Support: When a mage deals damage, add 1 spell card from your deck and/or graveyard to your hand. -8 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="8" />
 		</card>
@@ -1206,7 +1206,7 @@
 			<property name="Race" value="Spellbook" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Support: When a mage deals damage, draw 1 card. -5 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="4" />
 			<property name="Defense" value="10" />
 		</card>
@@ -1217,7 +1217,7 @@
 			<property name="Race" value="Spellbook" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Support: This card can be used as a substitute to summon a mage that requires up to 3 tributes OR 3 sacrifices that include mage or spellbooks. -10 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="1" />
 			<property name="Defense" value="1" />
 		</card>
@@ -1230,7 +1230,7 @@
 			<property name="Effect" value="Support: When a mage deals damage, summon 1 spellbook from your hand. -10 Gold" />
 			<property name="Attack" value="14" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cool as Heck Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe120" >
 			<property name="Level" value="0" />
@@ -1241,7 +1241,7 @@
 			<property name="Effect" value="Support: Give a mage Overcharge (10). -8 Gold" />
 			<property name="Attack" value="13" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="11" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Cool as Heck Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe120" >
 			<property name="Level" value="0" />
@@ -1252,7 +1252,7 @@
 			<property name="Effect" value="Support: Give a mage Overcharge (10). -8 Gold" />
 			<property name="Attack" value="13" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Insecure but Talented Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe121" >
 			<property name="Level" value="0" />
@@ -1261,7 +1261,7 @@
 			<property name="Race" value="Spellbook" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Support: Give a Mage Piercing Damage. -5 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="4" />
 			<property name="Defense" value="14" />
 		</card>
@@ -1274,7 +1274,7 @@
 			<property name="Effect" value="Support: Swap a Mage’s Combat position. -5 Gold" />
 			<property name="Attack" value="10" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="A Very Stunning Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe123" >
 			<property name="Level" value="0" />
@@ -1285,7 +1285,7 @@
 			<property name="Effect" value="Support: Give a mage Taunt. -10 Gold" />
 			<property name="Attack" value="14" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Old and Senile Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe124" >
 			<property name="Level" value="0" />
@@ -1296,7 +1296,7 @@
 			<property name="Effect" value="Support: Instead of sacrificing spellbooks, destroy them instead. -5 Gold per card" />
 			<property name="Attack" value="2" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Tech-Addicted Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe125" >
 			<property name="Level" value="0" />
@@ -1307,7 +1307,7 @@
 			<property name="Effect" value="Support: When a mage is summoned, give it + 2 Stamina. -5 Gold" />
 			<property name="Attack" value="10" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Rune Keeper Rubin" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe126" >
 			<property name="Level" value="2" />
@@ -1318,7 +1318,7 @@
 			<property name="Effect" value="Smite: Recall 1 spellbook card from the grave -5 Gold" />
 			<property name="Attack" value="17" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Rune Keeper Sophia" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe127" >
 			<property name="Level" value="2" />
@@ -1329,7 +1329,7 @@
 			<property name="Effect" value="Smite:  Increase the Combat of this card by +2 and the stamina of this card by +1 -2 Gold" />
 			<property name="Attack" value="18" />
 			<property name="Stamina" value="1" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Rune Keeper Emelia" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe128" >
 			<property name="Level" value="3" />
@@ -1340,7 +1340,7 @@
 			<property name="Effect" value="Smite: Destroy 1 card your opponent controls. -6 Gold" />
 			<property name="Attack" value="19" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Rune Keeper Cytrina" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe129" >
 			<property name="Level" value="1" />
@@ -1349,7 +1349,7 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Smite: Banish 1 card your opponent controls. -10 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="20" />
 		</card>
@@ -1395,7 +1395,7 @@
 			<property name="Effect" value="(Spellbook + Spellbook): Battlecry: Cripple 1 monster" />
 			<property name="Attack" value="18" />
 			<property name="Stamina" value="2" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Rune Keeper Damon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe134" >
 			<property name="Level" value="5" />
@@ -1406,7 +1406,7 @@
 			<property name="Effect" value="(Spellbook + Spellbook + Mage): Lifesteal." />
 			<property name="Attack" value="25" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="Low Wage Mage" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe135" >
 			<property name="Level" value="0" />
@@ -1415,7 +1415,7 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="(Spellbook): Battlecry: Reduce the Combat of 1 monster by -3. -5 Gold. Perish: This card is recalled" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="15" />
 		</card>
@@ -1426,7 +1426,7 @@
 			<property name="Race" value="Mage" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="(Spellbook + Spellbook): Battlecry: Summon 1 Monster from the Grave -5 Gold" />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="4" />
 			<property name="Defense" value="20" />
 		</card>
@@ -1439,7 +1439,7 @@
 			<property name="Effect" value="(Mage + Mage + Mage)" />
 			<property name="Attack" value="35" />
 			<property name="Stamina" value="3" />
-			<property name="Defense" value="X" />
+			<property name="Defense" value="" />
 		</card>
 		<card name="A Cursed Guard" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe138" >
 			<property name="Level" value="0" />
@@ -1448,7 +1448,7 @@
 			<property name="Race" value="Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="Withdraw: Summon a Warrior or Beast monster from your hand -8 Gold, Transform: On your turn, becomes a Light-Beast, loses Withdraw, switches to attack and new Combat is 10." />
-			<property name="Attack" value="X" />
+			<property name="Attack" value="" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="20" />
 	</cards>
