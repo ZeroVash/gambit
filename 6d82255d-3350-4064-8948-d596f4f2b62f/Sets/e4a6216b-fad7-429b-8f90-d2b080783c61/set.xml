@@ -490,7 +490,7 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
-			<property name="Effect" value="CONVERT an opponent’s Creature and transform it into a BEAST Creature permanently. Return control of that MONSTER at the end of this turn." />
+			<property name="Effect" value="CONVERT an opponent’s Creature and transform it into a BEAST Creature permanently. Return control of that Creature at the end of this turn." />
 			<property name="Attack" value="20HP" />
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
