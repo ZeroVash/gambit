@@ -573,6 +573,7 @@
 			<property name="Defense" value="3s" />
 		</card>
 		<card name="Gunslingin Paradise" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe062" >
+<<<<<<< HEAD
 			<property name="Level" value="" />
 			<property name="Attribute" value="Earth" />
 			<property name="Type" value="Field" />
@@ -580,13 +581,26 @@
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="ONCE PER TURN: Select 1 WARRIOR Creature and REACTIVATE its Ability." />
 			<property name="Attack" value="+10 Gold" />
+=======
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Field" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="ONCE PER TURN: Select 1 WARRIOR Creature and REACTIVATE its Ability. +10 Gold Per Turn" />
+			<property name="Attack" value="" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
 		<card name="Hotshot Joe" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe063" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: Reduce the Combat of 1 Creature by 5. (-5 Gold) " />
@@ -597,7 +611,11 @@
 		<card name="Hotshot Bunch" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe064" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: Increase the Combat of 1 Creature by 5. (-6 Gold)" />
@@ -608,7 +626,11 @@
 		<card name="Hotshot Billy" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe065" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: BURN your opponent, 10 Damage Directly. (-10 HP)" />
@@ -619,7 +641,11 @@
 		<card name="Hotshot Horra" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe065" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: RETRIEVE 1 HOTSHOT Card from your DECK or GRAVE. (-10 Gold)" />
@@ -630,7 +656,11 @@
 		<card name="Hotshot Carvy" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe066" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: Summon 1 HOTSHOT Creature from your hand. (-10 Gold)" />
@@ -641,7 +671,11 @@
 		<card name="Hotshot Zip" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe067" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: RETRIEVE up to 2 EQUIP Spell Cards from your DECK and/or GRAVE. (-5 Gold per card)" />
@@ -652,7 +686,11 @@
 		<card name="Hotshot Hart" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe068" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: Draw 1 Card for every WARRIOR Creature on your BOARD (-5 Gold)" />
@@ -663,7 +701,11 @@
 		<card name="Hotshot Booney" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe069" >
 			<property name="Level" value="1t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: DESTROY 1 Card. (-10 Gold)" />
@@ -674,10 +716,17 @@
 		<card name="Hotshot James" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe070" >
 			<property name="Level" value="1t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: Grant 1 WARRIOR Creature +1 BLOODLUST (-10 Gold)" />
+=======
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Fire-Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="BATTLECRY: Give 1 WARRIOR Creature +1 BLOODLUST (-10 Gold)" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Attack" value="20a" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="2s" />
@@ -685,7 +734,11 @@
 		<card name="Hotshot, The Legendary Rider" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe071" >
 			<property name="Level" value="2t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Fire-Warrior" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="BATTLECRY: BURN your opponent, 10 Damage Directly for every WARRIOR Creature on your BOARD. (-10 Gold)" />
@@ -699,7 +752,11 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
+<<<<<<< HEAD
 			<property name="Effect" value="Equip Spell: Grant 1 WARRIOR Creature PIERCING DAMAGE." />
+=======
+			<property name="Effect" value="Equip Spell: Give 1 WARRIOR Creature PIERCING DAMAGE." />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Attack" value="5G" />
 			<property name="Stamina" value="5" />
 			<property name="Defense" value="5s" />
@@ -710,7 +767,11 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
+<<<<<<< HEAD
 			<property name="Effect" value="Equip Spell: Grant 1 WARRIOR Creature ROLLOVER." />
+=======
+			<property name="Effect" value="Equip Spell: Give 1 WARRIOR Creature ROLLOVER." />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Attack" value="12G" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="2s" />
@@ -721,7 +782,11 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
+<<<<<<< HEAD
 			<property name="Effect" value="Equip Spell: Grant 1 Creature +5 Combat." />
+=======
+			<property name="Effect" value="Equip Spell: Give 1 Creature +5 Combat." />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Attack" value="5G" />
 			<property name="Stamina" value="5" />
 			<property name="Defense" value="5s" />
@@ -732,7 +797,11 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
+<<<<<<< HEAD
 			<property name="Effect" value="Equip Spell: Grant 1 FIRE-WARRIOR Creature TRAMPLE." />
+=======
+			<property name="Effect" value="Equip Spell: Give 1 FIRE-WARRIOR Creature TRAMPLE." />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Attack" value="20G" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="3s" />
@@ -776,7 +845,11 @@
 			<property name="Type" value="Spell" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
+<<<<<<< HEAD
 			<property name="Effect" value="Equip Spell: Grant 1 WARRIOR Creature INVINCIBILITY. (-10HP PER-TURN)" />
+=======
+			<property name="Effect" value="Equip Spell: Give 1 WARRIOR Creature INVINCIBILITY. (-10HP PER-TURN)" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Attack" value="" />
 			<property name="Stamina" value="3s" />
 			<property name="Defense" value="" />
@@ -853,15 +926,24 @@
 			<property name="Type" value="Ultimate" />
 			<property name="Race" value="" />
 			<property name="Rarity" value="R" />
+<<<<<<< HEAD
 			<property name="Effect" value="(Fire Creature) ONCE PER TURN: BURN your Opponent, 5 Damage Directly. (-3 Gold)" />
+=======
+			<property name="Effect" value="(Fire Monster) ONCE PER TURN: BURN your Opponent, 5 Damage Directly. (-3 Gold)" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Attack" value="15d" />
 			<property name="Stamina" value="5" />
 			<property name="Defense" value="5s" />
 		</card>
 		<card name="The Wailing Mistress" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe087" >
 			<property name="Level" value="" />
+<<<<<<< HEAD
 			<property name="Attribute" value="Earth" />
 			<property name="Type" value="Field" />
+=======
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="1) At the beginning of your Turn BURN your Opponent, 5 Damage Directly. 2) You can Summon 1 Additional PIRATE Creature PER TURN at the COST of 5 GOLD." />
@@ -872,7 +954,11 @@
 		<card name="The Lacky of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe088" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Shark-Pirate" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="CONDITIONS: When this Creature PLUNDERS, Reduce the Combat of this Creature by 1. PLUNDER: 3" />
@@ -894,10 +980,17 @@
 		<card name="The Cook of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe090" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Shark-Pirate" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="CONDITIONS: When this Creature PLUNDERS, Reduce the Combat of this Creature by 1. PLUNDER: 2 SUPPORT: If you loot more than 5 Gold in a turn, draw 1 Card." />
+=======
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="CONDITIONS: When this Creature PLUNDERS, Reduce the Combat of this Creature by 1. PLUNDER: 2 SUPPORT: If you loot more than 5 Gold in a turn, draw 1 Card. " />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Attack" value="18d" />
 			<property name="Stamina" value="3" />
 			<property name="Defense" value="3s" />
@@ -905,7 +998,11 @@
 		<card name="The Greenhorn of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe091" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
+=======
+			<property name="Type" value="Monster" />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Race" value="Shark-Pirate" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="CONDITIONS: When this Creature PLUNDERS, Reduce the Combat of this Creature by 1. PLUNDER: 1 TAUNT" />
@@ -916,10 +1013,17 @@
 		<card name="The Navigator of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe092" >
 			<property name="Level" value="0t" />
 			<property name="Attribute" value="Wind" />
+<<<<<<< HEAD
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Shark-Pirate" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="CONDITIONS: When this Creature PLUNDERS, Reduce the Combat of this Creature by 1. PLUNDER: 2 BATTLECRY: Summon 1 PIRATE Creature from your DECK. (-10 Gold)" />
+=======
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="CONDITIONS: When this Creature PLUNDERS, Reduce the Combat of this Creature by 1. PLUNDER: 2 BATTLECRY: Summon 1 PIRATE Creature from your DECK." />
+>>>>>>> c4ba82d798288c60ac97e27d248f6ded6abd218d
 			<property name="Attack" value="4a" />
 			<property name="Stamina" value="2" />
 			<property name="Defense" value="2s" />
