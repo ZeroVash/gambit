@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Test" id="e4a6216b-fad7-429b-8f90-d2b080783c61" gameId="6d82255d-3350-4064-8948-d596f4f2b62f" gameVersion="0.0.0.1" version="1.0.0.0">
+	<cards>
+		<card name="Cloud Herder Ven" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe000" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="BATTLECRY: RETRIEVE 1 WIND Creature from your DECK or the GRAVE. (-5 Gold)" />
+			<property name="Attack" value="14a" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Cloud Herder Mek" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe001" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="BATTLECRY: RETRIEVE 1 BEAST OR 1 MAGE Creature from your DECK or the GRAVE. (-6 Gold)" />
+			<property name="Attack" value="14d" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Cloud Herder Jey" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe002" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="SUPPORT: When a CLOUD BEAST Creature is BANISHED gain + 5 Gold. (BLOWBACK: 20HP)"/>
+			<property name="Attack" value="18d" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Cloud Herder Fel" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe004" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="BATTLECRY: Summon 1 BEAST Creature from your hand at the cost of 10HP." />
+			<property name="Attack" value="15d" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+        <card name="Cloud Herder Seb" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe006" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="SUPPORT: Gain 1 more additional summon for WIND Creatures per turn. (-8 Gold)" />
+			<property name="Attack" value="16d" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Cloud Herder Kit" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe007" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="SUPPORT: When a WIND Creature is REMOVED from your board, summon another from your hand. (-8 Gold)" />
+			<property name="Attack" value="12a" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Cloud Herder Naz" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe008" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="BATTLECRY: Select 1 WIND Creature and give it +1 BLOODLUST. (-10 Gold)" />
+			<property name="Attack" value="14a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Cloud Beast Dread" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe015" >
+			<property name="Level" value="15g" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="This card can’t attack the turn its summoned. This card can’t attack unless there is a CLOUD HERDER Creature on your board. When this card is DESTROYED, it’s BANISHED instead." />
+			<property name="Attack" value="50a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Cloud Beast Leon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe016" >
+			<property name="Level" value="10g" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="This card can’t attack the turn its summoned. This card can’t attack unless there is a CLOUD HERDER Creature on your board. When this card is DESTROYED, it’s BANISHED instead.  SMITE: Draw 3 cards. If this would trigger a reset, don’t pay the reset cost." />
+			<property name="Attack" value="25a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Cloud Beast Pegasus" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe017" >
+			<property name="Level" value="5g" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="This card can’t attack unless there is a CLOUD HERDER Creature on your board. When this card is DESTROYED, it’s BANISHED instead. SMITE: Draw 2 cards." />
+			<property name="Attack" value="18a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Cloud Beast Octavian" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe018" >
+			<property name="Level" value="8g" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="This card can’t attack unless there is a CLOUD HERDER Creature on your board. When this card is DESTROYED, it’s BANISHED instead. +1 BLOODLUST." />
+			<property name="Attack" value="19a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Cloud Beast Leviathan" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe019" >
+			<property name="Level" value="5g" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="This card can’t attack unless there is a CLOUD HERDER Creature on your board. When this card is DESTROYED, it’s BANISHED instead. OVERCHARGED: 15." />
+			<property name="Attack" value="10a" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="1s" />
+		</card>
+		<card name="Cloud Beast Bison" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe020" >
+			<property name="Level" value="5g" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Wind-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="When this card is DESTROYED, it's BANISHED instead. BATTLECRY: DUPLICATE this Creature." />
+			<property name="Attack" value="18d" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Skyward Bound" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe022" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="Earth" />
+			<property name="Type" value="Field" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="WIND Creatures gain the ability PIERCING DAMAGE." />
+			<property name="Attack" value="+10 Gold" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Parting Clouds" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe023" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continuous Effect: If a WIND Creature would be BANISHED, RECALL it." />
+			<property name="Attack" value="10G" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Greed" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe024" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Steal 5 Gold from your opponent and increase the COMBAT of all your opponent’s Creatures by 3." />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Shivering Winds" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe025" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continuous Spell: Both players chooses 1 Creature to make an attack each turn." />
+			<property name="Attack" value="12G" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Raincheck" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe026" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="When a card asks for you to pay gold, don’t pay it until your next turn but that price doubles. THIS CARD CANNOT BE RECALLED" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Windstream" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe027" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continous Spell: The Gold cost of all WIND Creature drop by 5 Gold for this turn only. THIS CARD CANNOT BE RECALLED." />
+			<property name="Attack" value="15HP" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="1s" />
+                </card>
+		<card name="Ceremonial Feather" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe029" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="SACRIFICE 1 WIND Creature from your Board then DESTROY 1 Creature your opponent controls." />
+			<property name="Attack" value="10G" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Hopeless Pokeless" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe030" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="SACRIFICE a WIND Creature on your board and CRIPPLE 1 Creature for a turn and give it INVINCIBILITY." />
+			<property name="Attack" value="15G" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Swift Knight" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe031" >
+			<property name="Level" value="1t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Wind-Warrior" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Wind Creature + Wind Creature) BATTLECRY: Deal 10 Damage DIRECTLY to your opponent." />
+			<property name="Attack" value="19a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Cloud Herder Mia" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe032" >
+			<property name="Level" value="3t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Cloud Herder Creature + Cloud Herder Creature) BATTLECRY: DRAW 1 card for every card of yours that’s BANISHED. IF THIS WOULD TRIGGER A RESET, DON’T PAY THE RESET COST. (-5 Gold)" />
+			<property name="Attack" value="20a" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="4s" />
+		</card>
+		<card name="Cloud Herder Ely" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe033" >
+			<property name="Level" value="2t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Cloud Herder Creature + Cloud Herder Creature) BATTLECRY: RETRIEVE up to 2 Spells and/or Spellbinder Creatures from your DECK and/or GRAVE to your hand. (-8 Gold)" />
+			<property name="Attack" value="5d" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Cloud Bast Herald" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe034" >
+			<property name="Level" value="10g" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Wind-Beast" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Cloud Beast Creature + Cloud Beast Creature) This card can’t attack the turn its summoned. This card can’t attack unless there is a CLOUD HERDER Creature on your board. When this card is DESTROYED, it’s BANISHED instead.  SUPPORT: For every card of yours that’s BANISHED, increase the COMBAT of Wind Creature by 2" />
+			<property name="Attack" value="26d" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Lady in the Clouds" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe035" >
+			<property name="Level" value="2t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Wind-Mage" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Wind Creature + Beast Creature) DIVINITY. TAUNT. DISABLE: 1 Creature. (-10 Gold) " />
+			<property name="Attack" value="50d" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Wereworld" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe036" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="Earth" />
+			<property name="Type" value="Field" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="TEMPORARILY increase the COMBAT of all BEAST Creatures by 5 on your turn." />
+			<property name="Attack" value="+10 Gold" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="A Cursed Knight" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe037" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Dark-Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="WITHDRAW: Steal 4 Gold from your opponent. (-10HP) TRANSFORM: On your turn this card becomes a LIGHT-BEAST Creature and loses WITHDRAW with a new COMBAT of 18." />
+			<property name="Attack" value="15a" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="A Cursed Gravekeeper" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe038" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Dark-Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="WITHDRAW: Summon a Creature from the GRAVE. (- 6 Gold) TRANSFORM: On your turn this card becomes a LIGHT-BEAST Creature and loses WITHDRAW with a new COMBAT of 10." />
+			<property name="Attack" value="1a" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="A Cursed Priest" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe039" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Dark-Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="WITHDRAW: OBSTRUCT your opponent for 1 turn. (- 5 Gold) TRANSFORM: On your turn this card becomes a LIGHT-BEAST Creature and loses WITHDRAW with a new COMBAT of 10." />
+			<property name="Attack" value="0d" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="A Cursed Lord" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe040" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Dark-Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="WITHDRAW: Summon 1 DARK or BEAST Creature from your deck. (- 8 Gold) TRANSFORM: On your turn this card becomes a LIGHT-BEAST Creature and loses WITHDRAW with a new COMBAT of 16." />
+			<property name="Attack" value="8a" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="A Cursed Queen" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe041" >
+			<property name="Level" value="1t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Dark-Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="WITHDRAW: RECALL this card. (- 8 Gold) TRANSFORM: On your turn this card becomes a LIGHT-BEAST Creature and loses WITHDRAW with a new COMBAT of 22." />
+			<property name="Attack" value="16a" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Wicked" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe042" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Dark-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="DUPLICATE this card only if it’s COMBAT INCREASES but the duplicate loses this ability. (-10 Gold)" />
+			<property name="Attack" value="16a" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Silver Back Freak" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe043" >
+			<property name="Level" value="1t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Light-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="BATTLECY: REDUCE the Combat of 1 Creature by 10. (-10 Gold) TRAMPLE. (-10HP)" />
+			<property name="Attack" value="20a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Deranged Hellbeast" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe044" >
+			<property name="Level" value="2t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Fire-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="SMITE: BURN your opponent for 8HP. (-5 Gold)" />
+			<property name="Attack" value="30a" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Weredoom" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe045" >
+			<property name="Level" value="1t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Light-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="BATTLECRY: DUPLICATE a TRANSFORMED LIGHT-BEAST Creature. (-20HP)" />
+			<property name="Attack" value="10a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="A Golden Pupper" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe046" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Light-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="ONCE PER TURN: Gain +5 Gold. (-5HP) CHARM" />
+			<property name="Attack" value="2a" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="4s" />
+		</card>
+		<card name="Combat-Ready Battlecat ZERO X" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe047" >
+			<property name="Level" value="1t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Machine-Beast" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="SHARPSHOOTER (-10 Gold)" />
+			<property name="Attack" value="17a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Fury" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe048" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell: Select 1 BEAST Creature and give it +1 BLOODLUST." />
+			<property name="Attack" value="15G" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="A Cursed Shield" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe049" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Switch the COMBAT of 1 Creature." />
+			<property name="Attack" value="8G" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Forbidden Recall" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe050" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="RECALL 1 DARK or BEAST Creature." />
+			<property name="Attack" value="5G" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Blinding Smite" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe051" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="BANISH 2 LIGHT Creatures from your hand then BANISH an opponent’s card." />
+			<property name="Attack" value="10G" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Pride" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe052" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continous Spell: This turn TRIBUTES for BEAST Creature are reduced by 1." />
+			<property name="Attack" value="6G" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="1s" />
+		</card>
+		<card name="A Beastly Crown" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe053" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell: Give 1 BEAST Creature +5 PLUNDER." />
+			<property name="Attack" value="15HP" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="An Experiemnt Gone Wrong" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe054" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="CONVERT an opponent’s Creature and transform it into a BEAST Creature permanently. Return control of that Creature at the end of this turn." />
+			<property name="Attack" value="20HP" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Pupper Exchange Service" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe055" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="BANISH one BEAST Creature from your hand and get gold equal to half of it’s COMBAT" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="A Cursed King" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe056" >
+			<property name="Level" value="1t" />
+			<property name="Attribute" value="Dark" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Dark-Warrior" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Cursed Creature + Beast Creature) WITHDRAW: BANISH 1 card. (-6 Gold) TRANSFORM: On your turn this card becomes a LIGHT-BEAST Creature and loses WITHDRAW with a new COMBAT of 25." />
+			<property name="Attack" value="20a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Hellbeast Behemoth" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe057" >
+			<property name="Level" value="3t" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Fire-Beast" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Beast Creature + Beast Creature + Beast Creature) SMITE: BANISH that Creature instead (-5HP)" />
+			<property name="Attack" value="30a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Combat-Ready Fortcrab Alpha G" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe058" >
+			<property name="Level" value="2t" />
+			<property name="Attribute" value="Machine" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Machine-Beast" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Beast Monster + 20HP) TAUNT: Only if there is another BEAST Creature on your board." />
+			<property name="Attack" value="45d" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Spellbeast" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe059" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Mage" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Mage-Beast" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Beast Monster) BATTLECRY: RETRIEVE 1 Spell from your DECK or GRAVE. (-10 Gold)" />
+			<property name="Attack" value="10a" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2s" />
+		</card>
+		<card name="Hungry Hungry Werepo" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe060" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Light-Beast" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Light-Beast + 20 HP) ONCE PER TURN: Double this Creature's COMBAT increases by 1" />
+			<property name="Attack" value="1a" />
+			<property name="Stamina" value="10" />
+			<property name="Defense" value="10s" />
+		</card>
+		<card name="A Cursed Guard" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe061" >
+			<property name="Level" value="0t" />
+			<property name="Attribute" value="Wind" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Dark-Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="WITHDRAW: Summon 1 WARRIOR or BEAST Creature from your hand. (-6 Gold) TRANSFORM: On your turn this card becomes a LIGHT-BEAST Creature and loses WITHDRAW." />
+			<property name="Attack" value="20d" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="3s" />
+		</card>
+		<card name="Gunslingin’ Paradise" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe062" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Field" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Cards with Hotshot in their name pay half in their abilities. You can detach 1 equip spell card and attach them to another monster once per turn. +10 Gold Per Turn" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Hotshot Joe" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe063" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Battlecry: Reduce the attack and defense of 1 monster by 5. -10 Gold. Quickdraw" />
+			<property name="Attack" value="16" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="Hotshot Bunch" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe064" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: Increase the attack of one monster by 5. This is treated as an equip spell effect. -10 Gold. Quickdraw" />
+			<property name="Attack" value="7" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="18" />
+		</card>
+		<card name="Hotshot Billy" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe065" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Battlecry: Burn your opponent for 10 damage. -10 Gold. Quickdraw" />
+			<property name="Attack" value="15" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="9" />
+		</card>
+		<card name="Hotshot Horra" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe065" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Battlecry: Add 1 Hotshot card from your deck or graveyard to your hand. -10 Gold. Quickdraw" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="Hotshot Carvy" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe066" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Battlecry: Summon one Hotshot monster from your hand. -10 Gold. Quickdraw" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="Hotshot Zip" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe067" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Battlecry: Add up to two equip spell cards from your deck and/or graveyard to your hand. -10 Gold per card. Quickdraw" />
+			<property name="Attack" value="15" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="Hotshot Hart" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe068" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Battlecry: Draw 1 card for every equip spell that’s on your board. -4 Gold Per Card. Quickdraw" />
+			<property name="Attack" value="16" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Hotshot Booney" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe069" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Battlecry: Destroy one card. -10 Gold. Quickdraw" />
+			<property name="Attack" value="20" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="Hotshot James" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe070" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: Give a warrior Sharpshooter (this is considered an Equip Spell effect) -20 Gold. Quickdraw" />
+			<property name="Attack" value="20" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="Hotshot The Legendary Rider" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe071" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Warrior" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Once per Turn: Burn your opponent for 5 damage for every equip spell card attached to this card. Overcharged: 15. Quickdraw. Blowback: 30 Gold" />
+			<property name="Attack" value="25" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="0" />
+		</card>
+		<card name="Hotshot Widespread" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe072" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell: Give a Warrior Monster Piercing Damage. -14 Gold." />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="5" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Hotshot Akimbo" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe073" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell: Give a Fire Monster +1 Bloodlust. -20 Gold." />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Hotshot Revolver" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe074" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell: Give a Monster 5 attack. -10 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="5" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Hotshot Bazooka" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe075" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell: Give a Hotshot Monster Trample. -20 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Golden Damascus" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe076" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell: Give a Warrior Monster +4 Plunder. -10HP" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Most Wanted" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe077" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Banish 2 Hotshot cards from your hand and Ultimate Summon Hotshot Disastrous. -10 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Revolver Snake" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe078" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Counter Spell: If you control a Hotshot Monster Prevent the summon of a monster and destroy it. -15 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Neodiamond Blade" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe079" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell: Give a Warrior monster Invincibility. When this card is removed from your board banish it instead. -10 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Restock" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe080" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Shuffle all Equip Spells in your graveyard into your deck and draw 2 cards. -10 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Last Call" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe081" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Sacrifice a monster on your board and summon a Warrior monster from your hand and reduce the attack by 5. -10 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Hotshot Jimmy" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe082" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Warrior + Warrior) Battlecry: Reduce the attack of one monster by 15, if that would make it zero, banish it. -16 Gold. Quickdraw" />
+			<property name="Attack" value="18" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="5" />
+		</card>
+		<card name="Hotshot Disastrous" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe083" >
+			<property name="Level" value="3" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Warrior + Warrior + Warrior) Battlecry: Banish all monsters on your board that’s not a Hotshot Monster. Then burn your opponent for 5 damage for every monster banished this turn. -6HP per card. Sharpshooter. -20 Gold. Quickdraw" />
+			<property name="Attack" value="30" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="The Forgotten Blade of Tomorrow" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe084" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Warrior + Warrior) Support: Give a Warrior Monster 10 attack. (this is considered an equip spell effect) -10 Gold. Perish: This card is recalled" />
+			<property name="Attack" value="15" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="0" />
+		</card>
+		<card name="A Forgotten Bow and its Arrows" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe085" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Warrior + Warrior) Support: Give a Warrior Monster piercing damage. (this is considered an equip spell effect) -5 Gold. Perish: This card is recalled" />
+			<property name="Attack" value="5" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="0" />
+		</card>
+		<card name="Lava Cannon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe086" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Fire" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(Fire Monster) Once per turn: Burn your opponent for 5 damage. -3 Gold " />
+			<property name="Attack" value="0" />
+			<property name="Stamina" value="5" />
+			<property name="Defense" value="15" />
+		</card>
+		<card name="The Wailing Mistress" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe087" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="1) Deal 5 Damage directly to your opponent at the beginning of their turn. 2)  You can summon 1 additional Pirate monster per turn but the cost is 5 Gold. +2 Gold Per Turn" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="The Lacky of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe088" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+1 Plunder. -3HP" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="5" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Gunner of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe089" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+2 Plunder. -5HP.´+4 Overcharge" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Cook of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe090" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+3 Plunder. -7HP. Support: If you loot 5 gold or more in a turn, increase the attack of all pirates by +2. " />
+			<property name="Attack" value="15" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Greenhorn of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe091" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+1 Plunder. -3HP. Taunt" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="15" />
+		</card>
+		<card name="The Navigator of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe092" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+1 Plunder. -3HP. Battlecry: Summon a Pirate monster from your deck. -10 Gold" />
+			<property name="Attack" value="8" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Doctor of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe093" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+2 Plunder. -5HP. +1 Plague" />
+			<property name="Attack" value="12" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Master Gunner of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe094" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+3 Plunder. -7HP. +10 Overcharge. -5 Gold" />
+			<property name="Attack" value="16" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Swordsman of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe095" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+4 Plunder. -10HP. Smite: Convert monsters destroyed by this card. -10 Gold" />
+			<property name="Attack" value="18" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Pepper, a Pretty Bird" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe096" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Dragon-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+4 Plunder. -10HP. Battlecry: Cripple 1 monster. -10HP" />
+			<property name="Attack" value="20" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Captain Boomer of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe097" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="5 Plunder. -15 HP. Trample. -10 Gold. Support: Increase the attack of all other Pirates by +5 " />
+			<property name="Attack" value="25" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Steamboat Chilly" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe098" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Ice" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="If you plunder more than 10 Gold in a turn, gain +10 HP. -5 Gold" />
+			<property name="Attack" value="8" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Udupi Vermon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe099" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Toxic-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+1 Plunder. -3HP. Duplicate this card everytime it plunders." />
+			<property name="Attack" value="8" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Boatswain of the W.M." id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe100" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Shark-Pirate" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="+2 Plunder. -5HP. Support: The Wailing Mistress can now attack at the beginning of your turn as well. -2 Gold" />
+			<property name="Attack" value="5" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="The Pirate Life for Me" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe101" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continuous - All converted monsters now become Pirates and gain the ability +1 Plunder. When this card is removed, destroy all converted Pirates. (They remain Pirates for the remainder of the game). -20 HP." />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Cursed Gold from Udupi Sea" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe102" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continuous - Instead of Pirates being destroyed, banish them instead. -10 Gold." />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="5" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Endless Riches" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe103" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Continuous - Plunder +2 extra gold however the blowback on this card increases by 3 after each each attack. Blowback (HP)" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="5" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Mistress Upgrade" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe104" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Increase the damage of the Wailing Mistress by 2 permanently. -10 Gold. Recall: You can only use this card once per turn" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="A Gunner’s Wet Dream" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe105" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell - Equip to a Pirate monster and give it Sharpshooter but after it attacks, it’s attack becomes 0 until your next turn. -15 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="A Simple Booby Trap" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe106" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Counter Spell - If a Pirate would be destroyed by battle, banish 2 random pirate monsters from your hand. -7 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Haunted Rifle of Galleon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe107" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Equip Spell - Increase the attack of 1 Pirate monster by +1 for every Pirate monster banished. -10 Gold. Once Per Turn: You can increase the stamina of this card by paying 10HP " />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Golden Tooth of Galleon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe108" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Damned-Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster + A Pirate Monster): Battlecry: Duplicate as many Pirate banished monsters you wish, however they lose their ability and they are now Damned-Pirate(s). -8 Gold. Perish: Banish this card" />
+			<property name="Attack" value="22" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="1" />
+		</card>
+		<card name="Turan Agustif of Galleon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe109" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Damned-Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster + A Pirate Monster): Battlecry: If there is more than 3 banished pirates, duplicate 1 spell card in your hand. -5 Gold. Perish: Banish this card" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="1" />
+		</card>
+		<card name="Admiral Sirendophilus " id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe110" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster + A Pirate Monster + 10 Gold): +3 Plunder. -10 HP. Battlecry: Give all Pirate monsters +3 Stamina. Piercing Damage" />
+			<property name="Attack" value="30" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="15" />
+		</card>
+		<card name="Warlord Vicious " id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe111" >
+			<property name="Level" value="3" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Warrior-Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster + 15 Gold): +3 Plunder. -8HP. Smite: This card can attack again" />
+			<property name="Attack" value="28" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="12" />
+		</card>
+		<card name="Cuddles the Pirate Teddy Bear " id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe112" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Toy-Pirate" />
+			<property name="Rarity" value="R" />
+			<property name="Effect" value="(A Pirate Monster): +5 Plunder. -10 HP. Perish: Destroy one card" />
+			<property name="Attack" value="2" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="1" />
+		</card>
+		<card name="A Magical Place" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe113" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Field Spell - Mages and Spellbinders have Divinity. +12 Gold Per Turn" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Carefree Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe114" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Enlightened-Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: When a mage or spellbook is destroyed recall it instead. -8 Gold" />
+			<property name="Attack" value="12" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="Diabolical Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe115" >
+			<property name="Level" value="1" />
+			<property name="Attribute" value="Dark" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: give a mage +1 Bloodlust. -12 Gold and -12 HP" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Totally Ripped Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe115" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Dark" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Toy-Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: Give a mage +5 attack and all other spellbooks +2 attack. -5 Gold" />
+			<property name="Attack" value="16" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="6" />
+		</card>
+		<card name="Filled with Pictures Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe116" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Dark" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Toy-Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: When a mage deals damage, add 1 spell card from your deck and/or graveyard to your hand. -8 Gold" />
+			<property name="Attack" value="4" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Super Serious Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe117" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Dark" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: When a mage deals damage, draw 1 card. -5 Gold" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="Depressed Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe118" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Water" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: This card can be used as a substitute to summon a mage that requires up to 3 tributes OR 3 sacrifices that include mage or spellbooks. -10 Gold" />
+			<property name="Attack" value="1" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="1" />
+		</card>
+		<card name="Obnoxious Laugh Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe119" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Toxic" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Spellbinder" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: When a mage deals damage, summon 1 spellbook from your hand. -10 Gold" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="8" />
+		</card>
+		<card name="Cool as Heck Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe120" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Ice" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: Give a mage Overcharge (10). -8 Gold" />
+			<property name="Attack" value="13" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="11" />
+		</card>
+		<card name="Cool as Heck Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe120" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Ice" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: Give a mage Overcharge (10). -8 Gold" />
+			<property name="Attack" value="13" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="11" />
+		</card>
+		<card name="Insecure but Talented Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe121" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Unknown" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: Give a Mage Piercing Damage. -5 Gold" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="14" />
+		</card>
+		<card name="Pathological Lying Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe122" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Thief-Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: Give a mage Quickdraw. -5 Gold" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="2" />
+		</card>
+		<card name="A Very Stunning Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe123" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: Give a mage Taunt. -10 Gold" />
+			<property name="Attack" value="14" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="2" />
+		</card>
+		<card name="Old and Senile Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe124" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Ancient-Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: Instead of sacrificing mages and/or spellbooks for the Ultimate Summon of a Mage, destroy them instead. -5 Gold per card" />
+			<property name="Attack" value="2" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="0" />
+		</card>
+		<card name="Tech-Addicted Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe125" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Machine-Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Support: When a mage is summoned, give it + 2 Stamina. -5 Gold" />
+			<property name="Attack" value="10" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="10" />
+		</card>
+		<card name="Rune Keeper Rubin" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe126" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Smite: Recall 1 spellbook from the graveyard. -5 Gold" />
+			<property name="Attack" value="17" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="15" />
+		</card>
+		<card name="Rune Keeper Sophia" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe127" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Smite: Increase the attack of this card by +2 and the stamina of this card by +1. -2 Gold" />
+			<property name="Attack" value="18" />
+			<property name="Stamina" value="1" />
+			<property name="Defense" value="16" />
+		</card>
+		<card name="Rune Keeper Emelia" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe128" >
+			<property name="Level" value="3" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Smite: Destroy 1 card your opponent controls. -6 Gold" />
+			<property name="Attack" value="19" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="18" />
+		</card>
+		<card name="Rune Keeper Cytrina" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe129" >
+			<property name="Level" value="4" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Monster" />
+			<property name="Race" value="Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Smite: Banish 1 card your opponent controls. -10 Gold" />
+			<property name="Attack" value="20" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="20" />
+		</card>
+		<card name="Spellbook Skimmer" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe130" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Retrieve 1 random spellbook from your deck. -6 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Spellbook Rejuvenation" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe131" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Give 1 random spellbook +3 Stamina. -5 Gold" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Spellbook Burning" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe132" >
+			<property name="Level" value="" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="Banish 2 random spellbooks from your hand and gain +10 Gold. -20 HP" />
+			<property name="Attack" value="" />
+			<property name="Stamina" value="" />
+			<property name="Defense" value="" />
+		</card>
+		<card name="Long and Boring Spellbinder" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe133" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Dark" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Spellbook" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="(Spellbook + Spellbook): Banish 2 random spellbooks from your hand and gain +10 Gold. -20 HP" />
+			<property name="Attack" value="8" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="4" />
+		</card>
+		<card name="Rune Keeper Damon" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe134" >
+			<property name="Level" value="5" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="(Spellbook + Spellbook + Mage): Plunder: 5 Gold. -15 HP" />
+			<property name="Attack" value="25" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="30" />
+		</card>
+		<card name="Low Wage Mage" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe135" >
+			<property name="Level" value="0" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="(Spellbook): Battlecry: Tribute a spellbook and reduce the attack of 1 monster by -3. -5 Gold. Perish: This card is recalled" />
+			<property name="Attack" value="15" />
+			<property name="Stamina" value="2" />
+			<property name="Defense" value="15" />
+		</card>
+		<card name="Grand Hobbling Master" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe136" >
+			<property name="Level" value="2" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="(Spellbook + Spellbook): Battlecry: Intimidate 1 monster. -5 Gold" />
+			<property name="Attack" value="18" />
+			<property name="Stamina" value="4" />
+			<property name="Defense" value="20" />
+		</card>
+		<card name="Brute Wizzlord" id="65cd3ef2-c1e1-4d0b-9bf6-ab6bba9fe137" >
+			<property name="Level" value="3" />
+			<property name="Attribute" value="Light" />
+			<property name="Type" value="Ultimate" />
+			<property name="Race" value="Mage" />
+			<property name="Rarity" value="C" />
+			<property name="Effect" value="(Mage + Mage + Mage)" />
+			<property name="Attack" value="35" />
+			<property name="Stamina" value="3" />
+			<property name="Defense" value="28" />
+		</card>
+	</cards>
+</set>
