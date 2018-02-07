@@ -1437,7 +1437,7 @@
 			<property name="Race" value="" />
 			<property name="Rarity" value="C" />
 			<property name="Effect" value="" />
-			<property name="Attack" value="" />
+			<property name="Attack" value=" " />
 			<property name="Stamina" value="" />
 			<property name="Defense" value="" />
 		</card>
